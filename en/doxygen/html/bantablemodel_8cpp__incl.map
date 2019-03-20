@@ -1,0 +1,24 @@
+<map id="src/qt/bantablemodel.cpp" name="src/qt/bantablemodel.cpp">
+<area shape="rect" id="node2" href="$bantablemodel_8h.html" title="bantablemodel.h" alt="" coords="1605,80,1721,107"/>
+<area shape="rect" id="node15" href="$sync_8h.html" title="sync.h" alt="" coords="624,304,685,331"/>
+<area shape="rect" id="node22" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="1627,387,1700,413"/>
+<area shape="rect" id="node36" href="$clientmodel_8h.html" title="clientmodel.h" alt="" coords="2129,80,2228,107"/>
+<area shape="rect" id="node39" href="$guiconstants_8h.html" title="guiconstants.h" alt="" coords="2252,80,2359,107"/>
+<area shape="rect" id="node40" href="$guiutil_8h.html" title="guiutil.h" alt="" coords="2563,80,2629,107"/>
+<area shape="rect" id="node3" href="$net_8h.html" title="net.h" alt="" coords="1475,155,1525,181"/>
+<area shape="rect" id="node4" href="$addrdb_8h.html" title="addrdb.h" alt="" coords="2211,304,2283,331"/>
+<area shape="rect" id="node7" href="$addrman_8h.html" title="addrman.h" alt="" coords="1197,229,1279,256"/>
+<area shape="rect" id="node8" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="1505,387,1601,413"/>
+<area shape="rect" id="node9" href="$compat_8h.html" title="compat.h" alt="" coords="1935,469,2011,496"/>
+<area shape="rect" id="node12" href="$protocol_8h.html" title="protocol.h" alt="" coords="1437,304,1515,331"/>
+<area shape="rect" id="node13" href="$uint256_8h.html" title="uint256.h" alt="" coords="1304,387,1377,413"/>
+<area shape="rect" id="node14" href="$random_8h.html" title="random.h" alt="" coords="1049,304,1124,331"/>
+<area shape="rect" id="node21" href="$util_8h.html" title="util.h" alt="" coords="1781,304,1832,331"/>
+<area shape="rect" id="node25" href="$bloom_8h.html" title="bloom.h" alt="" coords="985,229,1052,256"/>
+<area shape="rect" id="node26" href="$hash_8h.html" title="hash.h" alt="" coords="1351,304,1412,331"/>
+<area shape="rect" id="node27" href="$limitedmap_8h.html" title="limitedmap.h" alt="" coords="1077,229,1173,256"/>
+<area shape="rect" id="node28" href="$streams_8h.html" title="streams.h" alt="" coords="1200,387,1279,413"/>
+<area shape="rect" id="node29" href="$threadinterrupt_8h.html" title="threadinterrupt.h" alt="" coords="1918,229,2033,256"/>
+<area shape="rect" id="node16" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="362,387,467,413"/>
+<area shape="rect" id="node23" href="$amount_8h.html" title="amount.h" alt="" coords="2159,387,2235,413"/>
+</map>

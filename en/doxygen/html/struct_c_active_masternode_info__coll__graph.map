@@ -1,0 +1,11 @@
+<map id="CActiveMasternodeInfo" name="CActiveMasternodeInfo">
+<area shape="rect" id="node2" href="$class_c_out_point.html" title="An outpoint &#45; a combination of a transaction hash and an index n into its vout. " alt="" coords="119,173,200,200"/>
+<area shape="rect" id="node3" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="36,83,100,109"/>
+<area shape="rect" id="node4" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="5,5,131,32"/>
+<area shape="rect" id="node5" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash160 of its serialized public key. " alt="" coords="225,173,295,200"/>
+<area shape="rect" id="node6" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="228,83,292,109"/>
+<area shape="rect" id="node7" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="197,5,323,32"/>
+<area shape="rect" id="node8" href="$class_c_service.html" title="A combination of a network address (CNetAddr) and a (TCP) port. " alt="" coords="357,173,432,200"/>
+<area shape="rect" id="node9" href="$class_c_net_addr.html" title="IP address (IPv6, or IPv4 using mapped IPv6 range (::FFFF:0:0/96)) " alt="" coords="355,83,433,109"/>
+<area shape="rect" id="node10" href="$class_c_key.html" title="An encapsulated private key. " alt="" coords="457,173,511,200"/>
+</map>

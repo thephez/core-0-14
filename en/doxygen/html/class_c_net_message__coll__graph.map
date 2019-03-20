@@ -1,0 +1,8 @@
+<map id="CNetMessage" name="CNetMessage">
+<area shape="rect" id="node2" href="$class_c_data_stream.html" title="Double ended buffer combining vector and stream&#45;like interfaces. " alt="" coords="5,96,107,123"/>
+<area shape="rect" id="node3" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="132,96,196,123"/>
+<area shape="rect" id="node4" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="86,5,212,32"/>
+<area shape="rect" id="node5" href="$class_c_hash256.html" title="A hasher class for Bitcoin&#39;s 256&#45;bit hash (double SHA&#45;256). " alt="" coords="221,96,304,123"/>
+<area shape="rect" id="node6" href="$class_c_s_h_a256.html" title="A hasher class for SHA&#45;256. " alt="" coords="237,5,317,32"/>
+<area shape="rect" id="node7" href="$class_c_message_header.html" title="Message header. " alt="" coords="329,96,455,123"/>
+</map>

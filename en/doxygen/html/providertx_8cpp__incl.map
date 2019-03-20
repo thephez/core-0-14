@@ -1,0 +1,36 @@
+<map id="src/evo/providertx.cpp" name="src/evo/providertx.cpp">
+<area shape="rect" id="node2" href="$deterministicmns_8h.html" title="deterministicmns.h" alt="" coords="638,80,769,107"/>
+<area shape="rect" id="node20" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="2301,304,2408,331"/>
+<area shape="rect" id="node21" href="$streams_8h.html" title="streams.h" alt="" coords="139,304,217,331"/>
+<area shape="rect" id="node27" href="$providertx_8h.html" title="providertx.h" alt="" coords="1239,229,1329,256"/>
+<area shape="rect" id="node36" href="$specialtx_8h.html" title="specialtx.h" alt="" coords="188,229,273,256"/>
+<area shape="rect" id="node37" href="$base58_8h.html" title="base58.h" alt="" coords="1751,80,1824,107"/>
+<area shape="rect" id="node38" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="1809,155,1916,181"/>
+<area shape="rect" id="node44" href="$standard_8h.html" title="script/standard.h" alt="" coords="1507,155,1625,181"/>
+<area shape="rect" id="node47" href="$core__io_8h.html" title="core_io.h" alt="" coords="2344,387,2417,413"/>
+<area shape="rect" id="node48" href="$messagesigner_8h.html" title="messagesigner.h" alt="" coords="1605,80,1725,107"/>
+<area shape="rect" id="node49" href="$univalue_8h.html" title="univalue.h" alt="" coords="678,387,759,413"/>
+<area shape="rect" id="node3" href="$arith__uint256_8h.html" title="arith_uint256.h" alt="" coords="1163,387,1269,413"/>
+<area shape="rect" id="node8" href="$bls_8h.html" title="bls/bls.h" alt="" coords="1254,304,1324,331"/>
+<area shape="rect" id="node19" href="$dbwrapper_8h.html" title="dbwrapper.h" alt="" coords="297,229,391,256"/>
+<area shape="rect" id="node25" href="$evodb_8h.html" title="evodb.h" alt="" coords="391,155,459,181"/>
+<area shape="rect" id="node26" href="$sync_8h.html" title="sync.h" alt="" coords="415,229,476,256"/>
+<area shape="rect" id="node33" href="$simplifiedmns_8h.html" title="simplifiedmns.h" alt="" coords="1050,229,1163,256"/>
+<area shape="rect" id="node34" href="$map_8hpp.html" title="immer/map.hpp" alt="" coords="483,155,593,181"/>
+<area shape="rect" id="node35" href="$map__transient_8hpp.html" title="immer/map_transient.hpp" alt="" coords="619,155,788,181"/>
+<area shape="rect" id="node10" href="$serialize_8h.html" title="serialize.h" alt="" coords="521,387,601,413"/>
+<area shape="rect" id="node18" href="$uint256_8h.html" title="uint256.h" alt="" coords="1445,387,1519,413"/>
+<area shape="rect" id="node24" href="$version_8h.html" title="version.h" alt="" coords="344,304,417,331"/>
+<area shape="rect" id="node22" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="2144,379,2269,421"/>
+<area shape="rect" id="node28" href="$consensus_2validation_8h.html" title="consensus/validation.h" alt="" coords="1869,304,2023,331"/>
+<area shape="rect" id="node29" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="797,304,955,331"/>
+<area shape="rect" id="node31" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="979,304,1076,331"/>
+<area shape="rect" id="node32" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="1451,304,1524,331"/>
+<area shape="rect" id="node30" href="$script_8h.html" title="script/script.h" alt="" coords="885,387,987,413"/>
+<area shape="rect" id="node43" href="$key_8h.html" title="key.h" alt="" coords="1754,229,1808,256"/>
+<area shape="rect" id="node39" href="$chainparamsbase_8h.html" title="chainparamsbase.h" alt="" coords="1934,387,2068,413"/>
+<area shape="rect" id="node40" href="$params_8h.html" title="consensus/params.h" alt="" coords="1651,304,1793,331"/>
+<area shape="rect" id="node41" href="$block_8h.html" title="primitives/block.h" alt="" coords="747,229,871,256"/>
+<area shape="rect" id="node42" href="$protocol_8h.html" title="protocol.h" alt="" coords="895,229,973,256"/>
+<area shape="rect" id="node45" href="$interpreter_8h.html" title="script/interpreter.h" alt="" coords="1354,229,1480,256"/>
+</map>

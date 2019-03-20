@@ -1,0 +1,17 @@
+<map id="src/evo/providertx.h" name="src/evo/providertx.h">
+<area shape="rect" id="node2" href="$bls_8h.html" title="bls/bls.h" alt="" coords="2461,155,2531,181"/>
+<area shape="rect" id="node32" href="$consensus_2validation_8h.html" title="consensus/validation.h" alt="" coords="1603,80,1756,107"/>
+<area shape="rect" id="node33" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1155,80,1312,107"/>
+<area shape="rect" id="node37" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="1531,155,1628,181"/>
+<area shape="rect" id="node49" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="808,80,881,107"/>
+<area shape="rect" id="node4" href="$serialize_8h.html" title="serialize.h" alt="" coords="1193,229,1273,256"/>
+<area shape="rect" id="node21" href="$uint256_8h.html" title="uint256.h" alt="" coords="521,229,595,256"/>
+<area shape="rect" id="node25" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1718,229,1841,256"/>
+<area shape="rect" id="node5" href="$endian_8h.html" title="compat/endian.h" alt="" coords="646,379,764,405"/>
+<area shape="rect" id="node19" href="$prevector_8h.html" title="prevector.h" alt="" coords="942,304,1028,331"/>
+<area shape="rect" id="node24" href="$common_8h.html" title="crypto/common.h" alt="" coords="296,304,419,331"/>
+<area shape="rect" id="node34" href="$amount_8h.html" title="amount.h" alt="" coords="1365,155,1440,181"/>
+<area shape="rect" id="node35" href="$script_8h.html" title="script/script.h" alt="" coords="620,229,721,256"/>
+<area shape="rect" id="node38" href="$compat_8h.html" title="compat.h" alt="" coords="2249,229,2324,256"/>
+<area shape="rect" id="node50" href="$hash_8h.html" title="hash.h" alt="" coords="875,155,936,181"/>
+</map>

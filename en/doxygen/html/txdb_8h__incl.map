@@ -1,0 +1,39 @@
+<map id="src/txdb.h" name="src/txdb.h">
+<area shape="rect" id="node2" href="$coins_8h.html" title="coins.h" alt="" coords="2088,80,2152,107"/>
+<area shape="rect" id="node36" href="$dbwrapper_8h.html" title="dbwrapper.h" alt="" coords="3228,229,3321,256"/>
+<area shape="rect" id="node46" href="$chain_8h.html" title="chain.h" alt="" coords="3721,155,3785,181"/>
+<area shape="rect" id="node49" href="$spentindex_8h.html" title="spentindex.h" alt="" coords="2783,304,2879,331"/>
+<area shape="rect" id="node3" href="$compressor_8h.html" title="compressor.h" alt="" coords="2208,229,2309,256"/>
+<area shape="rect" id="node6" href="$serialize_8h.html" title="serialize.h" alt="" coords="2493,453,2573,480"/>
+<area shape="rect" id="node15" href="$uint256_8h.html" title="uint256.h" alt="" coords="2736,453,2809,480"/>
+<area shape="rect" id="node16" href="$core__memusage_8h.html" title="core_memusage.h" alt="" coords="2242,155,2371,181"/>
+<area shape="rect" id="node18" href="$memusage_8h.html" title="memusage.h" alt="" coords="2021,229,2117,256"/>
+<area shape="rect" id="node21" href="$hash_8h.html" title="hash.h" alt="" coords="1505,379,1567,405"/>
+<area shape="rect" id="node4" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="2448,304,2605,331"/>
+<area shape="rect" id="node14" href="$script_8h.html" title="script/script.h" alt="" coords="2605,453,2707,480"/>
+<area shape="rect" id="node5" href="$amount_8h.html" title="amount.h" alt="" coords="2833,379,2908,405"/>
+<area shape="rect" id="node13" href="$prevector_8h.html" title="prevector.h" alt="" coords="2399,528,2485,555"/>
+<area shape="rect" id="node17" href="$block_8h.html" title="primitives/block.h" alt="" coords="2465,229,2588,256"/>
+<area shape="rect" id="node19" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="2019,304,2119,331"/>
+<area shape="rect" id="node22" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="1780,528,1913,555"/>
+<area shape="rect" id="node23" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="1988,528,2103,555"/>
+<area shape="rect" id="node24" href="$version_8h.html" title="version.h" alt="" coords="1935,453,2008,480"/>
+<area shape="rect" id="node25" href="$sph__blake_8h.html" title="BLAKE interface. " alt="" coords="1677,453,1808,480"/>
+<area shape="rect" id="node26" href="$sph__bmw_8h.html" title="BMW interface. " alt="" coords="43,453,172,480"/>
+<area shape="rect" id="node27" href="$sph__groestl_8h.html" title="Groestl interface. " alt="" coords="197,453,336,480"/>
+<area shape="rect" id="node28" href="$sph__jh_8h.html" title="JH interface. " alt="" coords="361,453,471,480"/>
+<area shape="rect" id="node29" href="$sph__keccak_8h.html" title="Keccak interface. " alt="" coords="495,453,637,480"/>
+<area shape="rect" id="node30" href="$sph__skein_8h.html" title="Skein interface. " alt="" coords="662,453,793,480"/>
+<area shape="rect" id="node31" href="$sph__luffa_8h.html" title="Luffa interface. " alt="" coords="818,453,944,480"/>
+<area shape="rect" id="node32" href="$sph__cubehash_8h.html" title="CubeHash interface. " alt="" coords="969,453,1127,480"/>
+<area shape="rect" id="node33" href="$sph__shavite_8h.html" title="SHAvite&#45;3 interface. " alt="" coords="1151,453,1293,480"/>
+<area shape="rect" id="node34" href="$sph__simd_8h.html" title="SIMD interface. " alt="" coords="1318,453,1447,480"/>
+<area shape="rect" id="node35" href="$sph__echo_8h.html" title="ECHO interface. " alt="" coords="1471,453,1600,480"/>
+<area shape="rect" id="node37" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="3443,453,3549,480"/>
+<area shape="rect" id="node38" href="$streams_8h.html" title="streams.h" alt="" coords="3035,379,3113,405"/>
+<area shape="rect" id="node39" href="$util_8h.html" title="util.h" alt="" coords="3495,304,3545,331"/>
+<area shape="rect" id="node42" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="3574,453,3697,480"/>
+<area shape="rect" id="node40" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="3539,379,3629,405"/>
+<area shape="rect" id="node47" href="$arith__uint256_8h.html" title="arith_uint256.h" alt="" coords="3773,453,3880,480"/>
+<area shape="rect" id="node48" href="$pow_8h.html" title="pow.h" alt="" coords="3882,229,3939,256"/>
+</map>

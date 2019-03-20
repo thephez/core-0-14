@@ -1,0 +1,11 @@
+<map id="CDeterministicMNManager" name="CDeterministicMNManager">
+<area shape="rect" id="node2" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="1245,67,1309,93"/>
+<area shape="rect" id="node3" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="903,5,1030,32"/>
+<area shape="rect" id="node4" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="908,305,1025,332"/>
+<area shape="rect" id="node7" href="$class_c_evo_d_b.html" title="CEvoDB" alt="" coords="1240,177,1315,204"/>
+<area shape="rect" id="node8" href="$class_c_d_b_transaction.html" title="CDBTransaction\&lt; RootTransaction,\l RootTransaction \&gt;" alt="" coords="851,170,1082,211"/>
+<area shape="rect" id="node9" href="$class_c_d_b_transaction.html" title="CDBTransaction\&lt; CDBWrapper,\l CDBBatch \&gt;" alt="" coords="504,135,717,177"/>
+<area shape="rect" id="node10" href="$class_c_d_b_wrapper.html" title="CDBWrapper" alt="" coords="7,129,107,156"/>
+<area shape="rect" id="node11" href="$class_c_d_b_batch.html" title="Batch of changes queued to be written to a CDBWrapper. " alt="" coords="248,220,333,247"/>
+<area shape="rect" id="node12" href="$class_c_data_stream.html" title="Double ended buffer combining vector and stream&#45;like interfaces. " alt="" coords="6,224,109,251"/>
+</map>

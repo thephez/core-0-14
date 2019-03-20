@@ -1,0 +1,8 @@
+<map id="CCryptoKeyStore" name="CCryptoKeyStore">
+<area shape="rect" id="node2" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="169,357,287,384"/>
+<area shape="rect" id="node3" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="185,267,271,293"/>
+<area shape="rect" id="node4" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="169,176,285,203"/>
+<area shape="rect" id="node7" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="51,267,137,293"/>
+<area shape="rect" id="node8" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="39,176,103,203"/>
+<area shape="rect" id="node9" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="5,91,131,117"/>
+</map>

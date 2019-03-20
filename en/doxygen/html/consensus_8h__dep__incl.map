@@ -1,0 +1,29 @@
+<map id="src/consensus/consensus.h" name="src/consensus/consensus.h">
+<area shape="rect" id="node2" href="$blockencodings_8cpp.html" title="src/blockencodings.cpp" alt="" coords="1110,80,1268,107"/>
+<area shape="rect" id="node3" href="$coins_8cpp.html" title="src/coins.cpp" alt="" coords="1293,80,1392,107"/>
+<area shape="rect" id="node4" href="$dash-tx_8cpp.html" title="src/dash&#45;tx.cpp" alt="" coords="5,155,116,181"/>
+<area shape="rect" id="node5" href="$policy_8h.html" title="src/policy/policy.h" alt="" coords="1519,80,1645,107"/>
+<area shape="rect" id="node9" href="$miner_8cpp.html" title="src/miner.cpp" alt="" coords="141,155,243,181"/>
+<area shape="rect" id="node20" href="$txmempool_8cpp.html" title="src/txmempool.cpp" alt="" coords="2553,155,2687,181"/>
+<area shape="rect" id="node21" href="$validation_8cpp.html" title="src/validation.cpp" alt="" coords="2875,155,2999,181"/>
+<area shape="rect" id="node22" href="$wallet_8cpp.html" title="src/wallet/wallet.cpp" alt="" coords="2711,155,2851,181"/>
+<area shape="rect" id="node23" href="$merkleblock_8cpp.html" title="src/merkleblock.cpp" alt="" coords="1823,80,1961,107"/>
+<area shape="rect" id="node24" href="$net_8cpp.html" title="src/net.cpp" alt="" coords="1986,80,2072,107"/>
+<area shape="rect" id="node25" href="$transactiondesc_8cpp.html" title="src/qt/transactiondesc.cpp" alt="" coords="2097,80,2273,107"/>
+<area shape="rect" id="node26" href="$transactionrecord_8cpp.html" title="src/qt/transactionrecord.cpp" alt="" coords="2297,80,2481,107"/>
+<area shape="rect" id="node27" href="$mining_8cpp.html" title="src/rpc/mining.cpp" alt="" coords="2506,80,2635,107"/>
+<area shape="rect" id="node28" href="$undo_8h.html" title="src/undo.h" alt="" coords="2816,80,2897,107"/>
+<area shape="rect" id="node6" href="$ccoins__caching_8cpp.html" title="src/bench/ccoins_caching.cpp" alt="" coords="2093,155,2291,181"/>
+<area shape="rect" id="node7" href="$mempool__eviction_8cpp.html" title="src/bench/mempool_eviction.cpp" alt="" coords="2316,155,2529,181"/>
+<area shape="rect" id="node8" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="267,155,353,181"/>
+<area shape="rect" id="node10" href="$net__processing_8cpp.html" title="src/net_processing.cpp" alt="" coords="379,155,536,181"/>
+<area shape="rect" id="node11" href="$fees_8cpp.html" title="src/policy/fees.cpp" alt="" coords="561,155,692,181"/>
+<area shape="rect" id="node12" href="$policy_8cpp.html" title="src/policy/policy.cpp" alt="" coords="717,155,857,181"/>
+<area shape="rect" id="node13" href="$coincontroldialog_8cpp.html" title="src/qt/coincontroldialog.cpp" alt="" coords="883,155,1064,181"/>
+<area shape="rect" id="node14" href="$guiutil_8cpp.html" title="src/qt/guiutil.cpp" alt="" coords="1089,155,1207,181"/>
+<area shape="rect" id="node15" href="$paymentserver_8cpp.html" title="src/qt/paymentserver.cpp" alt="" coords="1232,155,1403,181"/>
+<area shape="rect" id="node16" href="$blockchain_8cpp.html" title="src/rpc/blockchain.cpp" alt="" coords="1427,155,1580,181"/>
+<area shape="rect" id="node17" href="$rpc_2net_8cpp.html" title="src/rpc/net.cpp" alt="" coords="1605,155,1715,181"/>
+<area shape="rect" id="node18" href="$rawtransaction_8cpp.html" title="src/rpc/rawtransaction.cpp" alt="" coords="1739,155,1915,181"/>
+<area shape="rect" id="node19" href="$sign_8cpp.html" title="src/script/sign.cpp" alt="" coords="1939,155,2068,181"/>
+</map>

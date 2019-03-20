@@ -1,0 +1,26 @@
+<map id="src/validation.h" name="src/validation.h">
+<area shape="rect" id="node2" href="$amount_8h.html" title="amount.h" alt="" coords="1542,245,1617,272"/>
+<area shape="rect" id="node20" href="$chain_8h.html" title="chain.h" alt="" coords="884,163,948,189"/>
+<area shape="rect" id="node28" href="$coins_8h.html" title="coins.h" alt="" coords="1437,80,1501,107"/>
+<area shape="rect" id="node37" href="$protocol_8h.html" title="protocol.h" alt="" coords="453,163,531,189"/>
+<area shape="rect" id="node39" href="$script__error_8h.html" title="script/script_error.h" alt="" coords="2278,80,2412,107"/>
+<area shape="rect" id="node40" href="$sync_8h.html" title="sync.h" alt="" coords="2437,80,2499,107"/>
+<area shape="rect" id="node46" href="$versionbits_8h.html" title="versionbits.h" alt="" coords="1801,80,1897,107"/>
+<area shape="rect" id="node47" href="$spentindex_8h.html" title="spentindex.h" alt="" coords="1071,163,1167,189"/>
+<area shape="rect" id="node3" href="$serialize_8h.html" title="serialize.h" alt="" coords="1382,320,1463,347"/>
+<area shape="rect" id="node4" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1237,395,1355,421"/>
+<area shape="rect" id="node18" href="$prevector_8h.html" title="prevector.h" alt="" coords="1379,395,1465,421"/>
+<area shape="rect" id="node21" href="$arith__uint256_8h.html" title="arith_uint256.h" alt="" coords="696,320,803,347"/>
+<area shape="rect" id="node24" href="$block_8h.html" title="primitives/block.h" alt="" coords="1166,245,1289,272"/>
+<area shape="rect" id="node25" href="$uint256_8h.html" title="uint256.h" alt="" coords="547,320,620,347"/>
+<area shape="rect" id="node26" href="$pow_8h.html" title="pow.h" alt="" coords="205,245,261,272"/>
+<area shape="rect" id="node27" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="1205,320,1296,347"/>
+<area shape="rect" id="node29" href="$compressor_8h.html" title="compressor.h" alt="" coords="1365,245,1467,272"/>
+<area shape="rect" id="node31" href="$core__memusage_8h.html" title="core_memusage.h" alt="" coords="1594,163,1723,189"/>
+<area shape="rect" id="node32" href="$memusage_8h.html" title="memusage.h" alt="" coords="1694,245,1791,272"/>
+<area shape="rect" id="node35" href="$hash_8h.html" title="hash.h" alt="" coords="928,245,989,272"/>
+<area shape="rect" id="node30" href="$script_8h.html" title="script/script.h" alt="" coords="1029,320,1131,347"/>
+<area shape="rect" id="node36" href="$version_8h.html" title="version.h" alt="" coords="448,320,521,347"/>
+<area shape="rect" id="node38" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="357,245,453,272"/>
+<area shape="rect" id="node41" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="2990,163,3095,189"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="WalletModelTransaction" name="WalletModelTransaction">
+<area shape="rect" id="node2" href="$class_c_reserve_key.html" title="A key allocated from the key pool. " alt="" coords="1699,120,1803,147"/>
+<area shape="rect" id="node3" href="$class_c_reserve_script.html" title="CReserveScript" alt="" coords="1491,12,1605,39"/>
+<area shape="rect" id="node4" href="$class_c_script.html" title="Serialized script, used inside transaction inputs and outputs. " alt="" coords="1216,12,1283,39"/>
+<area shape="rect" id="node5" href="$classprevector.html" title="Implements a drop&#45;in replacement for std::vector&lt;T&gt; which stores up to N elements directly (without h..." alt="" coords="1020,12,1116,39"/>
+<area shape="rect" id="node6" href="$unionprevector_1_1direct__or__indirect.html" title="prevector\&lt; N, T, Size,\l Diff \&gt;::direct_or_indirect" alt="" coords="705,5,871,46"/>
+<area shape="rect" id="node7" href="$class_c_pub_key.html" title="An encapsulated public key. " alt="" coords="1210,76,1289,103"/>
+<area shape="rect" id="node8" href="$class_c_wallet.html" title="A CWallet is an extension of a keystore, which also maintains a set of transactions and balances..." alt="" coords="1513,192,1583,219"/>
+<area shape="rect" id="node22" href="$class_c_wallet_tx.html" title="A transaction with a bunch of additional info that only the owner cares about. " alt="" coords="1709,192,1793,219"/>
+<area shape="rect" id="node9" href="$class_c_crypto_key_store.html" title="Keystore which keeps the private keys encrypted. " alt="" coords="1187,355,1312,381"/>
+<area shape="rect" id="node10" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="1009,355,1127,381"/>
+<area shape="rect" id="node11" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="745,343,831,369"/>
+<area shape="rect" id="node12" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="424,327,541,353"/>
+<area shape="rect" id="node15" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="745,401,831,428"/>
+<area shape="rect" id="node16" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="451,447,515,473"/>
+<area shape="rect" id="node23" href="$class_c_merkle_tx.html" title="A transaction with a merkle branch linking it to the block chain. " alt="" coords="897,477,983,504"/>
+<area shape="rect" id="node17" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="231,447,358,473"/>
+<area shape="rect" id="node18" href="$class_c_validation_interface.html" title="CValidationInterface" alt="" coords="1179,140,1319,167"/>
+<area shape="rect" id="node19" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="1208,191,1291,217"/>
+<area shape="rect" id="node20" href="$class_c_wallet_d_b.html" title="Access to the wallet database. " alt="" coords="1205,241,1293,268"/>
+<area shape="rect" id="node21" href="$class_c_d_b.html" title="RAII class that provides access to a Berkeley database. " alt="" coords="1043,240,1093,267"/>
+</map>

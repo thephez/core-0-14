@@ -1,0 +1,29 @@
+<map id="src/qt/clientmodel.cpp" name="src/qt/clientmodel.cpp">
+<area shape="rect" id="node2" href="$clientmodel_8h.html" title="clientmodel.h" alt="" coords="340,229,439,256"/>
+<area shape="rect" id="node6" href="$bantablemodel_8h.html" title="bantablemodel.h" alt="" coords="1868,80,1984,107"/>
+<area shape="rect" id="node7" href="$net_8h.html" title="net.h" alt="" coords="1825,229,1876,256"/>
+<area shape="rect" id="node22" href="$guiconstants_8h.html" title="guiconstants.h" alt="" coords="1393,80,1500,107"/>
+<area shape="rect" id="node23" href="$guiutil_8h.html" title="guiutil.h" alt="" coords="747,229,813,256"/>
+<area shape="rect" id="node33" href="$peertablemodel_8h.html" title="peertablemodel.h" alt="" coords="2010,80,2131,107"/>
+<area shape="rect" id="node35" href="$alert_8h.html" title="alert.h" alt="" coords="1504,304,1561,331"/>
+<area shape="rect" id="node36" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="2647,304,2753,331"/>
+<area shape="rect" id="node40" href="$checkpoints_8h.html" title="checkpoints.h" alt="" coords="2302,379,2404,405"/>
+<area shape="rect" id="node41" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="2868,453,2975,480"/>
+<area shape="rect" id="node43" href="$txmempool_8h.html" title="txmempool.h" alt="" coords="1917,304,2013,331"/>
+<area shape="rect" id="node44" href="$ui__interface_8h.html" title="ui_interface.h" alt="" coords="1243,453,1343,480"/>
+<area shape="rect" id="node46" href="$masternodeman_8h.html" title="masternodeman.h" alt="" coords="2365,155,2491,181"/>
+<area shape="rect" id="node47" href="$masternode-sync_8h.html" title="masternode&#45;sync.h" alt="" coords="1625,155,1759,181"/>
+<area shape="rect" id="node48" href="$privatesend_8h.html" title="privatesend.h" alt="" coords="2567,229,2667,256"/>
+<area shape="rect" id="node8" href="$addrdb_8h.html" title="addrdb.h" alt="" coords="1773,379,1845,405"/>
+<area shape="rect" id="node15" href="$addrman_8h.html" title="addrman.h" alt="" coords="1809,304,1891,331"/>
+<area shape="rect" id="node16" href="$protocol_8h.html" title="protocol.h" alt="" coords="2107,379,2185,405"/>
+<area shape="rect" id="node17" href="$uint256_8h.html" title="uint256.h" alt="" coords="2399,453,2472,480"/>
+<area shape="rect" id="node18" href="$sync_8h.html" title="sync.h" alt="" coords="2021,379,2083,405"/>
+<area shape="rect" id="node19" href="$bloom_8h.html" title="bloom.h" alt="" coords="2210,379,2277,405"/>
+<area shape="rect" id="node9" href="$serialize_8h.html" title="serialize.h" alt="" coords="1937,453,2017,480"/>
+<area shape="rect" id="node24" href="$amount_8h.html" title="amount.h" alt="" coords="1921,379,1996,405"/>
+<area shape="rect" id="node34" href="$net__processing_8h.html" title="net_processing.h" alt="" coords="2219,155,2340,181"/>
+<area shape="rect" id="node37" href="$chainparamsbase_8h.html" title="chainparamsbase.h" alt="" coords="2709,453,2843,480"/>
+<area shape="rect" id="node38" href="$params_8h.html" title="consensus/params.h" alt="" coords="2629,379,2771,405"/>
+<area shape="rect" id="node39" href="$block_8h.html" title="primitives/block.h" alt="" coords="2481,379,2604,405"/>
+</map>

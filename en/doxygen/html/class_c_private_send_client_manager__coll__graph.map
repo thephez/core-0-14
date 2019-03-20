@@ -1,0 +1,4 @@
+<map id="CPrivateSendClientManager" name="CPrivateSendClientManager">
+<area shape="rect" id="node2" href="$class_c_private_send_base_manager.html" title="CPrivateSendBaseManager" alt="" coords="186,267,368,293"/>
+<area shape="rect" id="node3" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="25,176,141,203"/>
+</map>

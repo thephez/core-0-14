@@ -1,0 +1,20 @@
+<map id="src/policy/policy.h" name="src/policy/policy.h">
+<area shape="rect" id="node2" href="$ccoins__caching_8cpp.html" title="src/bench/ccoins_caching.cpp" alt="" coords="5,80,203,107"/>
+<area shape="rect" id="node3" href="$mempool__eviction_8cpp.html" title="src/bench/mempool_eviction.cpp" alt="" coords="228,80,441,107"/>
+<area shape="rect" id="node4" href="$dash-tx_8cpp.html" title="src/dash&#45;tx.cpp" alt="" coords="465,80,576,107"/>
+<area shape="rect" id="node5" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="602,80,688,107"/>
+<area shape="rect" id="node6" href="$miner_8cpp.html" title="src/miner.cpp" alt="" coords="713,80,815,107"/>
+<area shape="rect" id="node7" href="$net__processing_8cpp.html" title="src/net_processing.cpp" alt="" coords="839,80,996,107"/>
+<area shape="rect" id="node8" href="$fees_8cpp.html" title="src/policy/fees.cpp" alt="" coords="1021,80,1152,107"/>
+<area shape="rect" id="node9" href="$policy_8cpp.html" title="src/policy/policy.cpp" alt="" coords="1177,80,1317,107"/>
+<area shape="rect" id="node10" href="$coincontroldialog_8cpp.html" title="src/qt/coincontroldialog.cpp" alt="" coords="1343,80,1524,107"/>
+<area shape="rect" id="node11" href="$guiutil_8cpp.html" title="src/qt/guiutil.cpp" alt="" coords="1549,80,1667,107"/>
+<area shape="rect" id="node12" href="$paymentserver_8cpp.html" title="src/qt/paymentserver.cpp" alt="" coords="1692,80,1863,107"/>
+<area shape="rect" id="node13" href="$blockchain_8cpp.html" title="src/rpc/blockchain.cpp" alt="" coords="1887,80,2040,107"/>
+<area shape="rect" id="node14" href="$rpc_2net_8cpp.html" title="src/rpc/net.cpp" alt="" coords="2065,80,2175,107"/>
+<area shape="rect" id="node15" href="$rawtransaction_8cpp.html" title="src/rpc/rawtransaction.cpp" alt="" coords="2199,80,2375,107"/>
+<area shape="rect" id="node16" href="$sign_8cpp.html" title="src/script/sign.cpp" alt="" coords="2399,80,2528,107"/>
+<area shape="rect" id="node17" href="$txmempool_8cpp.html" title="src/txmempool.cpp" alt="" coords="2553,80,2687,107"/>
+<area shape="rect" id="node18" href="$validation_8cpp.html" title="src/validation.cpp" alt="" coords="2711,80,2835,107"/>
+<area shape="rect" id="node19" href="$wallet_8cpp.html" title="src/wallet/wallet.cpp" alt="" coords="2859,80,2999,107"/>
+</map>

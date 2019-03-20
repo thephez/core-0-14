@@ -1,0 +1,18 @@
+<map id="src/qt/receivecoinsdialog.cpp" name="src/qt/receivecoinsdialog.cpp">
+<area shape="rect" id="node2" href="$receivecoinsdialog_8h.html" title="receivecoinsdialog.h" alt="" coords="1710,80,1850,107"/>
+<area shape="rect" id="node3" href="$guiutil_8h.html" title="guiutil.h" alt="" coords="1534,155,1600,181"/>
+<area shape="rect" id="node26" href="$addressbookpage_8h.html" title="addressbookpage.h" alt="" coords="1016,80,1150,107"/>
+<area shape="rect" id="node27" href="$addresstablemodel_8h.html" title="addresstablemodel.h" alt="" coords="1390,80,1532,107"/>
+<area shape="rect" id="node30" href="$bitcoinunits_8h.html" title="bitcoinunits.h" alt="" coords="319,155,418,181"/>
+<area shape="rect" id="node32" href="$optionsmodel_8h.html" title="optionsmodel.h" alt="" coords="184,155,294,181"/>
+<area shape="rect" id="node33" href="$platformstyle_8h.html" title="platformstyle.h" alt="" coords="521,80,628,107"/>
+<area shape="rect" id="node36" href="$receiverequestdialog_8h.html" title="receiverequestdialog.h" alt="" coords="822,80,974,107"/>
+<area shape="rect" id="node37" href="$walletmodel_8h.html" title="walletmodel.h" alt="" coords="674,155,776,181"/>
+<area shape="rect" id="node45" href="$recentrequeststablemodel_8h.html" title="recentrequeststablemodel.h" alt="" coords="1184,80,1366,107"/>
+<area shape="rect" id="node4" href="$amount_8h.html" title="amount.h" alt="" coords="240,229,315,256"/>
+<area shape="rect" id="node5" href="$serialize_8h.html" title="serialize.h" alt="" coords="266,312,347,339"/>
+<area shape="rect" id="node38" href="$paymentrequestplus_8h.html" title="paymentrequestplus.h" alt="" coords="514,229,664,256"/>
+<area shape="rect" id="node41" href="$walletmodeltransaction_8h.html" title="walletmodeltransaction.h" alt="" coords="832,229,998,256"/>
+<area shape="rect" id="node42" href="$secure_8h.html" title="support/allocators\l/secure.h" alt="" coords="116,305,242,346"/>
+<area shape="rect" id="node40" href="$base58_8h.html" title="base58.h" alt="" coords="463,312,536,339"/>
+</map>

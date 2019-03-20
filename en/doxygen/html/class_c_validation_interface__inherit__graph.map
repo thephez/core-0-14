@@ -1,0 +1,8 @@
+<map id="CValidationInterface" name="CValidationInterface">
+<area shape="rect" id="node2" href="$class_c_active_deterministic_masternode_manager.html" title="CActiveDeterministicMasternode\lManager" alt="" coords="195,5,410,46"/>
+<area shape="rect" id="node3" href="$class_c_d_s_notification_interface.html" title="CDSNotificationInterface" alt="" coords="219,71,387,97"/>
+<area shape="rect" id="node4" href="$class_c_wallet.html" title="A CWallet is an extension of a keystore, which also maintains a set of transactions and balances..." alt="" coords="268,121,337,148"/>
+<area shape="rect" id="node5" href="$class_c_z_m_q_notification_interface.html" title="CZMQNotificationInterface" alt="" coords="213,172,392,199"/>
+<area shape="rect" id="node6" href="$class_peer_logic_validation.html" title="PeerLogicValidation" alt="" coords="234,223,371,249"/>
+<area shape="rect" id="node7" href="$classsubmitblock___state_catcher.html" title="submitblock_StateCatcher" alt="" coords="215,273,391,300"/>
+</map>

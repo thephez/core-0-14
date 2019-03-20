@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_bitcoin_amount_field.html" title="Widget for entering bitcoin amounts. " alt="" coords="129,5,263,32"/>
+<area shape="rect" id="node3" href="$class_masternode_list.html" title="Masternode Manager page widget. " alt="" coords="141,56,251,83"/>
+<area shape="rect" id="node4" href="$class_modal_overlay.html" title="Modal overlay to display information about the chain&#45;sync state. " alt="" coords="145,107,247,133"/>
+<area shape="rect" id="node5" href="$class_overview_page.html" title="Overview (&quot;home&quot;) page widget. " alt="" coords="143,157,249,184"/>
+<area shape="rect" id="node6" href="$class_r_p_c_console.html" title="Local Bitcoin RPC console. " alt="" coords="147,208,245,235"/>
+<area shape="rect" id="node7" href="$class_shutdown_window.html" title="&quot;Shutdown&quot; window " alt="" coords="133,259,259,285"/>
+<area shape="rect" id="node8" href="$class_splash_screen.html" title="Class for the splashscreen with information of the running client. " alt="" coords="145,309,247,336"/>
+<area shape="rect" id="node9" href="$class_traffic_graph_widget.html" title="TrafficGraphWidget" alt="" coords="129,360,263,387"/>
+<area shape="rect" id="node10" href="$class_transaction_view.html" title="Widget showing the transaction list for a wallet, including a filter row. " alt="" coords="137,411,255,437"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_base_signature_creator.html" title="Virtual base class for signature creators. " alt="" coords="6,31,157,57"/>
+<area shape="rect" id="node2" href="$class_dummy_signature_creator.html" title="A signature creator that just produces 72&#45;byte empty signatures. " alt="" coords="217,5,383,32"/>
+<area shape="rect" id="node3" href="$class_transaction_signature_creator.html" title="A signature creator for transactions. " alt="" coords="206,56,394,83"/>
+</map>

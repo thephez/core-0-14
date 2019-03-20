@@ -1,0 +1,17 @@
+<map id="src/evo/simplifiedmns.h" name="src/evo/simplifiedmns.h">
+<area shape="rect" id="node2" href="$bls_8h.html" title="bls/bls.h" alt="" coords="702,229,772,256"/>
+<area shape="rect" id="node4" href="$serialize_8h.html" title="serialize.h" alt="" coords="2405,304,2485,331"/>
+<area shape="rect" id="node31" href="$merkleblock_8h.html" title="merkleblock.h" alt="" coords="2530,80,2632,107"/>
+<area shape="rect" id="node35" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="2081,229,2177,256"/>
+<area shape="rect" id="node49" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="3031,155,3104,181"/>
+<area shape="rect" id="node20" href="$uint256_8h.html" title="uint256.h" alt="" coords="2933,304,3007,331"/>
+<area shape="rect" id="node24" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1910,304,2033,331"/>
+<area shape="rect" id="node5" href="$endian_8h.html" title="compat/endian.h" alt="" coords="2515,453,2633,480"/>
+<area shape="rect" id="node19" href="$prevector_8h.html" title="prevector.h" alt="" coords="3046,379,3132,405"/>
+<area shape="rect" id="node23" href="$common_8h.html" title="crypto/common.h" alt="" coords="2899,379,3021,405"/>
+<area shape="rect" id="node32" href="$block_8h.html" title="primitives/block.h" alt="" coords="2671,155,2795,181"/>
+<area shape="rect" id="node34" href="$bloom_8h.html" title="bloom.h" alt="" coords="2418,229,2485,256"/>
+<area shape="rect" id="node33" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="2663,229,2820,256"/>
+<area shape="rect" id="node36" href="$compat_8h.html" title="compat.h" alt="" coords="1261,304,1336,331"/>
+<area shape="rect" id="node50" href="$hash_8h.html" title="hash.h" alt="" coords="2844,229,2905,256"/>
+</map>

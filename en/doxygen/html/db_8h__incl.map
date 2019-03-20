@@ -1,0 +1,13 @@
+<map id="src/wallet/db.h" name="src/wallet/db.h">
+<area shape="rect" id="node2" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="39,163,146,189"/>
+<area shape="rect" id="node5" href="$serialize_8h.html" title="serialize.h" alt="" coords="865,163,946,189"/>
+<area shape="rect" id="node22" href="$streams_8h.html" title="streams.h" alt="" coords="649,80,727,107"/>
+<area shape="rect" id="node26" href="$sync_8h.html" title="sync.h" alt="" coords="1223,80,1285,107"/>
+<area shape="rect" id="node32" href="$version_8h.html" title="version.h" alt="" coords="1309,80,1382,107"/>
+<area shape="rect" id="node6" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1304,245,1422,272"/>
+<area shape="rect" id="node19" href="$prevector_8h.html" title="prevector.h" alt="" coords="951,245,1037,272"/>
+<area shape="rect" id="node8" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1287,320,1422,347"/>
+<area shape="rect" id="node23" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="475,155,601,197"/>
+<area shape="rect" id="node24" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="354,245,479,272"/>
+<area shape="rect" id="node27" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="1532,163,1637,189"/>
+</map>

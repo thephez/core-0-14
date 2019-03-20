@@ -1,0 +1,11 @@
+<map id="CSimplifiedMNListEntry" name="CSimplifiedMNListEntry">
+<area shape="rect" id="node2" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash160 of its serialized public key. " alt="" coords="797,5,867,32"/>
+<area shape="rect" id="node3" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="503,5,567,32"/>
+<area shape="rect" id="node4" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="185,5,311,32"/>
+<area shape="rect" id="node5" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="216,80,280,107"/>
+<area shape="rect" id="node10" href="$class_c_b_l_s_wrapper.html" title="CBLSWrapper\&lt; bls::Public\lKey, BLS_CURVE_PUBKEY\l_SIZE, CBLSPublicKey \&gt;" alt="" coords="437,107,632,163"/>
+<area shape="rect" id="node6" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="6,80,133,107"/>
+<area shape="rect" id="node7" href="$class_c_service.html" title="A combination of a network address (CNetAddr) and a (TCP) port. " alt="" coords="794,176,870,203"/>
+<area shape="rect" id="node8" href="$class_c_net_addr.html" title="IP address (IPv6, or IPv4 using mapped IPv6 range (::FFFF:0:0/96)) " alt="" coords="495,187,575,213"/>
+<area shape="rect" id="node9" href="$class_c_b_l_s_public_key.html" title="CBLSPublicKey" alt="" coords="774,111,890,137"/>
+</map>

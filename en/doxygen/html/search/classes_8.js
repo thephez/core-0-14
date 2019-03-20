@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['identity_5fheap',['identity_heap',['../structimmer_1_1identity__heap.html',1,'immer']]],
+  ['impl',['impl',['../structimmer_1_1detail_1_1dvektor_1_1impl.html',1,'immer::detail::dvektor']]],
+  ['impl_3c_20t_2c_20b_2c_20memorypolicy_20_3e',['impl&lt; T, B, MemoryPolicy &gt;',['../structimmer_1_1detail_1_1dvektor_1_1impl.html',1,'immer::detail::dvektor']]],
+  ['impl_5fdata_5ft',['impl_data_t',['../structimmer_1_1detail_1_1hamts_1_1node_1_1impl__data__t.html',1,'immer::detail::hamts::node&lt; T, Hash, Equal, MemoryPolicy, B &gt;::impl_data_t'],['../structimmer_1_1detail_1_1rbts_1_1node_1_1impl__data__t.html',1,'immer::detail::rbts::node&lt; T, MemoryPolicy, B, BL &gt;::impl_data_t']]],
+  ['indirectmap',['indirectmap',['../classindirectmap.html',1,'']]],
+  ['indirectmap_3c_20coutpoint_2c_20const_20ctransaction_20_2a_3e',['indirectmap&lt; COutPoint, const CTransaction *&gt;',['../classindirectmap.html',1,'']]],
+  ['inherit',['inherit',['../structimmer_1_1detail_1_1csl_1_1inherit.html',1,'immer::detail::csl']]],
+  ['inherit_3c_20t_2c_20void_20_3e',['inherit&lt; T, void &gt;',['../structimmer_1_1detail_1_1csl_1_1inherit_3_01_t_00_01void_01_4.html',1,'immer::detail::csl']]],
+  ['inner_5ft',['inner_t',['../structimmer_1_1detail_1_1hamts_1_1node_1_1inner__t.html',1,'immer::detail::hamts::node&lt; T, Hash, Equal, MemoryPolicy, B &gt;::inner_t'],['../structimmer_1_1detail_1_1rbts_1_1node_1_1inner__t.html',1,'immer::detail::rbts::node&lt; T, MemoryPolicy, B, BL &gt;::inner_t']]],
+  ['internal_5fpool',['internal_pool',['../structmt__pooled__secure__allocator_1_1internal__pool.html',1,'mt_pooled_secure_allocator']]],
+  ['internal_5fsecure_5fallocator',['internal_secure_allocator',['../structpooled__secure__allocator_1_1internal__secure__allocator.html',1,'pooled_secure_allocator']]],
+  ['intro',['Intro',['../class_intro.html',1,'']]],
+  ['is_5fconvertible',['is_convertible',['../structtinyformat_1_1detail_1_1is__convertible.html',1,'tinyformat::detail']]],
+  ['is_5fwchar',['is_wchar',['../structtinyformat_1_1detail_1_1is__wchar.html',1,'tinyformat::detail']]],
+  ['is_5fwchar_3c_20const_20wchar_5ft_20_2a_20_3e',['is_wchar&lt; const wchar_t * &gt;',['../structtinyformat_1_1detail_1_1is__wchar_3_01const_01wchar__t_01_5_01_4.html',1,'tinyformat::detail']]],
+  ['is_5fwchar_3c_20const_20wchar_5ft_5bn_5d_3e',['is_wchar&lt; const wchar_t[n]&gt;',['../structtinyformat_1_1detail_1_1is__wchar_3_01const_01wchar__t[n]_4.html',1,'tinyformat::detail']]],
+  ['is_5fwchar_3c_20wchar_5ft_20_2a_20_3e',['is_wchar&lt; wchar_t * &gt;',['../structtinyformat_1_1detail_1_1is__wchar_3_01wchar__t_01_5_01_4.html',1,'tinyformat::detail']]],
+  ['is_5fwchar_3c_20wchar_5ft_5bn_5d_3e',['is_wchar&lt; wchar_t[n]&gt;',['../structtinyformat_1_1detail_1_1is__wchar_3_01wchar__t[n]_4.html',1,'tinyformat::detail']]],
+  ['iterator',['iterator',['../structimmer_1_1detail_1_1dvektor_1_1iterator.html',1,'immer::detail::dvektor::iterator&lt; T, B, MP &gt;'],['../classprevector_1_1iterator.html',1,'prevector&lt; N, T, Size, Diff &gt;::iterator']]],
+  ['iterator_5fcore_5faccess',['iterator_core_access',['../structimmer_1_1detail_1_1iterator__core__access.html',1,'immer::detail']]],
+  ['iterator_5ffacade',['iterator_facade',['../classimmer_1_1detail_1_1iterator__facade.html',1,'immer::detail']]],
+  ['iterator_5ffacade_3c_20champ_5fiterator_3c_20t_2c_20hash_2c_20eq_2c_20mp_2c_20b_20_3e_2c_20std_3a_3aforward_5fiterator_5ftag_2c_20t_2c_20const_20t_20_26_3e',['iterator_facade&lt; champ_iterator&lt; T, Hash, Eq, MP, B &gt;, std::forward_iterator_tag, T, const T &amp;&gt;',['../classimmer_1_1detail_1_1iterator__facade.html',1,'immer::detail']]],
+  ['iterator_5ffacade_3c_20rbtree_5fiterator_3c_20t_2c_20mp_2c_20b_2c_20bl_20_3e_2c_20std_3a_3arandom_5faccess_5fiterator_5ftag_2c_20t_2c_20const_20t_20_26_3e',['iterator_facade&lt; rbtree_iterator&lt; T, MP, B, BL &gt;, std::random_access_iterator_tag, T, const T &amp;&gt;',['../classimmer_1_1detail_1_1iterator__facade.html',1,'immer::detail']]],
+  ['iterator_5ffacade_3c_20rrbtree_5fiterator_3c_20t_2c_20mp_2c_20b_2c_20bl_20_3e_2c_20std_3a_3arandom_5faccess_5fiterator_5ftag_2c_20t_2c_20const_20t_20_26_3e',['iterator_facade&lt; rrbtree_iterator&lt; T, MP, B, BL &gt;, std::random_access_iterator_tag, T, const T &amp;&gt;',['../classimmer_1_1detail_1_1iterator__facade.html',1,'immer::detail']]],
+  ['iteratorcomparator',['IteratorComparator',['../struct_iterator_comparator.html',1,'']]]
+];

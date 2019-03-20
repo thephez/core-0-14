@@ -1,0 +1,4 @@
+<map id="CPrivateSendBaseSession" name="CPrivateSendBaseSession">
+<area shape="rect" id="node2" href="$class_c_private_send_client_session.html" title="CPrivateSendClientSession" alt="" coords="5,80,189,107"/>
+<area shape="rect" id="node3" href="$class_c_private_send_server.html" title="Used to keep track of current status of mixing pool. " alt="" coords="213,80,353,107"/>
+</map>

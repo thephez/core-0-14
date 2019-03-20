@@ -1,0 +1,29 @@
+<map id="src/messagesigner.h" name="src/messagesigner.h">
+<area shape="rect" id="node2" href="$key_8h.html" title="key.h" alt="" coords="2894,80,2948,107"/>
+<area shape="rect" id="node3" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="2921,155,2995,181"/>
+<area shape="rect" id="node13" href="$serialize_8h.html" title="serialize.h" alt="" coords="2475,320,2556,347"/>
+<area shape="rect" id="node26" href="$uint256_8h.html" title="uint256.h" alt="" coords="2985,320,3059,347"/>
+<area shape="rect" id="node45" href="$secure_8h.html" title="support/allocators\l/secure.h" alt="" coords="2620,230,2745,271"/>
+<area shape="rect" id="node4" href="$hash_8h.html" title="hash.h" alt="" coords="1460,237,1521,264"/>
+<area shape="rect" id="node5" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="1475,395,1608,421"/>
+<area shape="rect" id="node8" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="1632,395,1747,421"/>
+<area shape="rect" id="node9" href="$prevector_8h.html" title="prevector.h" alt="" coords="2131,395,2217,421"/>
+<area shape="rect" id="node30" href="$version_8h.html" title="version.h" alt="" coords="2212,320,2285,347"/>
+<area shape="rect" id="node31" href="$sph__blake_8h.html" title="BLAKE interface. " alt="" coords="309,320,440,347"/>
+<area shape="rect" id="node35" href="$sph__bmw_8h.html" title="BMW interface. " alt="" coords="967,320,1096,347"/>
+<area shape="rect" id="node36" href="$sph__groestl_8h.html" title="Groestl interface. " alt="" coords="1121,320,1260,347"/>
+<area shape="rect" id="node37" href="$sph__jh_8h.html" title="JH interface. " alt="" coords="1285,320,1395,347"/>
+<area shape="rect" id="node38" href="$sph__keccak_8h.html" title="Keccak interface. " alt="" coords="1419,320,1561,347"/>
+<area shape="rect" id="node39" href="$sph__skein_8h.html" title="Skein interface. " alt="" coords="1586,320,1717,347"/>
+<area shape="rect" id="node40" href="$sph__luffa_8h.html" title="Luffa interface. " alt="" coords="5,320,131,347"/>
+<area shape="rect" id="node41" href="$sph__cubehash_8h.html" title="CubeHash interface. " alt="" coords="465,320,623,347"/>
+<area shape="rect" id="node42" href="$sph__shavite_8h.html" title="SHAvite&#45;3 interface. " alt="" coords="647,320,789,347"/>
+<area shape="rect" id="node43" href="$sph__simd_8h.html" title="SIMD interface. " alt="" coords="814,320,943,347"/>
+<area shape="rect" id="node44" href="$sph__echo_8h.html" title="ECHO interface. " alt="" coords="155,320,284,347"/>
+<area shape="rect" id="node14" href="$endian_8h.html" title="compat/endian.h" alt="" coords="2837,469,2955,496"/>
+<area shape="rect" id="node15" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="2775,544,2909,571"/>
+<area shape="rect" id="node29" href="$common_8h.html" title="crypto/common.h" alt="" coords="3039,395,3161,421"/>
+<area shape="rect" id="node33" href="$sph__types_8h.html" title="Basic type definitions. " alt="" coords="884,395,977,421"/>
+<area shape="rect" id="node46" href="$lockedpool_8h.html" title="support/lockedpool.h" alt="" coords="1994,320,2136,347"/>
+<area shape="rect" id="node48" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="1844,320,1969,347"/>
+</map>

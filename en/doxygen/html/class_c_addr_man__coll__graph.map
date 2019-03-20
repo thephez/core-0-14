@@ -1,0 +1,6 @@
+<map id="CAddrMan" name="CAddrMan">
+<area shape="rect" id="node2" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="36,176,100,203"/>
+<area shape="rect" id="node3" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="5,91,131,117"/>
+<area shape="rect" id="node4" href="$class_fast_random_context.html" title="Fast randomness source. " alt="" coords="125,176,267,203"/>
+<area shape="rect" id="node5" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="291,176,407,203"/>
+</map>

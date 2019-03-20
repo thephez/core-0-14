@@ -1,0 +1,36 @@
+<map id="src/governance.h" name="src/governance.h">
+<area shape="rect" id="node2" href="$bloom_8h.html" title="bloom.h" alt="" coords="965,229,1032,256"/>
+<area shape="rect" id="node11" href="$cachemap_8h.html" title="cachemap.h" alt="" coords="217,379,311,405"/>
+<area shape="rect" id="node13" href="$cachemultimap_8h.html" title="cachemultimap.h" alt="" coords="290,304,411,331"/>
+<area shape="rect" id="node14" href="$chain_8h.html" title="chain.h" alt="" coords="2977,229,3041,256"/>
+<area shape="rect" id="node23" href="$governance-exceptions_8h.html" title="governance&#45;exceptions.h" alt="" coords="3214,304,3380,331"/>
+<area shape="rect" id="node25" href="$governance-object_8h.html" title="governance&#45;object.h" alt="" coords="1712,80,1851,107"/>
+<area shape="rect" id="node26" href="$governance-vote_8h.html" title="governance&#45;vote.h" alt="" coords="1250,304,1379,331"/>
+<area shape="rect" id="node32" href="$net_8h.html" title="net.h" alt="" coords="2191,155,2241,181"/>
+<area shape="rect" id="node39" href="$sync_8h.html" title="sync.h" alt="" coords="2265,304,2327,331"/>
+<area shape="rect" id="node40" href="$timedata_8h.html" title="timedata.h" alt="" coords="2519,453,2600,480"/>
+<area shape="rect" id="node41" href="$util_8h.html" title="util.h" alt="" coords="2503,304,2553,331"/>
+<area shape="rect" id="node49" href="$univalue_8h.html" title="univalue.h" alt="" coords="2570,379,2651,405"/>
+<area shape="rect" id="node50" href="$deterministicmns_8h.html" title="evo/deterministicmns.h" alt="" coords="1565,229,1723,256"/>
+<area shape="rect" id="node3" href="$serialize_8h.html" title="serialize.h" alt="" coords="1183,453,1264,480"/>
+<area shape="rect" id="node15" href="$arith__uint256_8h.html" title="arith_uint256.h" alt="" coords="2388,453,2495,480"/>
+<area shape="rect" id="node16" href="$block_8h.html" title="primitives/block.h" alt="" coords="1709,304,1832,331"/>
+<area shape="rect" id="node18" href="$uint256_8h.html" title="uint256.h" alt="" coords="1833,453,1907,480"/>
+<area shape="rect" id="node19" href="$pow_8h.html" title="pow.h" alt="" coords="3455,453,3512,480"/>
+<area shape="rect" id="node20" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="3015,379,3105,405"/>
+<area shape="rect" id="node17" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1369,379,1527,405"/>
+<area shape="rect" id="node27" href="$key_8h.html" title="key.h" alt="" coords="1145,379,1199,405"/>
+<area shape="rect" id="node28" href="$bls_8h.html" title="bls/bls.h" alt="" coords="1223,379,1293,405"/>
+<area shape="rect" id="node29" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1686,453,1809,480"/>
+<area shape="rect" id="node30" href="$governance-votedb_8h.html" title="governance&#45;votedb.h" alt="" coords="679,229,821,256"/>
+<area shape="rect" id="node31" href="$streams_8h.html" title="streams.h" alt="" coords="741,379,820,405"/>
+<area shape="rect" id="node33" href="$addrdb_8h.html" title="addrdb.h" alt="" coords="896,379,968,405"/>
+<area shape="rect" id="node34" href="$addrman_8h.html" title="addrman.h" alt="" coords="2007,229,2088,256"/>
+<area shape="rect" id="node35" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="1890,379,1987,405"/>
+<area shape="rect" id="node36" href="$compat_8h.html" title="compat.h" alt="" coords="1534,453,1609,480"/>
+<area shape="rect" id="node37" href="$protocol_8h.html" title="protocol.h" alt="" coords="1959,304,2037,331"/>
+<area shape="rect" id="node38" href="$random_8h.html" title="random.h" alt="" coords="2351,304,2427,331"/>
+<area shape="rect" id="node43" href="$hash_8h.html" title="hash.h" alt="" coords="1601,379,1663,405"/>
+<area shape="rect" id="node44" href="$limitedmap_8h.html" title="limitedmap.h" alt="" coords="527,229,623,256"/>
+<area shape="rect" id="node45" href="$threadinterrupt_8h.html" title="threadinterrupt.h" alt="" coords="2735,229,2851,256"/>
+</map>

@@ -1,0 +1,25 @@
+var class_c_deterministic_m_n_manager =
+[
+    [ "CDeterministicMNManager", "class_c_deterministic_m_n_manager.html#a3c083f42050850fd225a2bd6c974208c", null ],
+    [ "BuildNewListFromBlock", "class_c_deterministic_m_n_manager.html#ae358ffb1fcd0f1b1fb0e0504ec7aa09e", null ],
+    [ "CleanupCache", "class_c_deterministic_m_n_manager.html#a82d13a638dde8a8666d211e122db4797", null ],
+    [ "DecreasePoSePenalties", "class_c_deterministic_m_n_manager.html#ac44ce01023064a290ab7c7dfed8b137d", null ],
+    [ "GetListAtChainTip", "class_c_deterministic_m_n_manager.html#a99372ef9b13c480a55878139b9404ecd", null ],
+    [ "GetListForBlock", "class_c_deterministic_m_n_manager.html#a75a08bbd1bc1e004cf82883582a63154", null ],
+    [ "GetSpork15Value", "class_c_deterministic_m_n_manager.html#a3b49726ce556eaaabf60ae808b1f6880", null ],
+    [ "HandleQuorumCommitment", "class_c_deterministic_m_n_manager.html#a46d51355d863ad00c6859496adf2b1a5", null ],
+    [ "HasMNCollateralAtChainTip", "class_c_deterministic_m_n_manager.html#abe3fa0cc0c6c3ff42edf55dd6a9961c9", null ],
+    [ "HasValidMNCollateralAtChainTip", "class_c_deterministic_m_n_manager.html#abee2a2b8a0cd7da0f59ef7ba1f5d4a5e", null ],
+    [ "IsDeterministicMNsSporkActive", "class_c_deterministic_m_n_manager.html#a9a6874a65486f4297bfcbd06e52e5eb7", null ],
+    [ "IsProTxWithCollateral", "class_c_deterministic_m_n_manager.html#a2e8ac701a8b8695eb6eb6f5d77fae6fd", null ],
+    [ "ProcessBlock", "class_c_deterministic_m_n_manager.html#a598bb574f7f830a495e63f0558106ba5", null ],
+    [ "UndoBlock", "class_c_deterministic_m_n_manager.html#a186d1a5e8b3db93b636f2c9c162b7735", null ],
+    [ "UpdatedBlockTip", "class_c_deterministic_m_n_manager.html#ab6cbf0831e438dace69f7ca627031d1b", null ],
+    [ "cs", "class_c_deterministic_m_n_manager.html#a7951cb871dfdcb05cdfc0122c07d18f6", null ],
+    [ "evoDb", "class_c_deterministic_m_n_manager.html#a6347c36a83fc42e5874c994526f4b420", null ],
+    [ "LISTS_CACHE_SIZE", "class_c_deterministic_m_n_manager.html#a6930b61919a34a761da611af68223e3b", null ],
+    [ "mnListsCache", "class_c_deterministic_m_n_manager.html#aee1393c881e8bbd49a15b9da060adc73", null ],
+    [ "SNAPSHOT_LIST_PERIOD", "class_c_deterministic_m_n_manager.html#acf3d6f6cf8def100adb371077f2b53c2", null ],
+    [ "tipBlockHash", "class_c_deterministic_m_n_manager.html#a44a16da8391b486b0e7ddee2b008aa2f", null ],
+    [ "tipHeight", "class_c_deterministic_m_n_manager.html#a880ebdff7ee8a8af77a63a12a135069c", null ]
+];

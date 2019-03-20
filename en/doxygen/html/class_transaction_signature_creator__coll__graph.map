@@ -1,0 +1,10 @@
+<map id="TransactionSignatureCreator" name="TransactionSignatureCreator">
+<area shape="rect" id="node2" href="$class_base_signature_creator.html" title="Virtual base class for signature creators. " alt="" coords="9,357,159,384"/>
+<area shape="rect" id="node3" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="41,267,127,293"/>
+<area shape="rect" id="node4" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="25,176,141,203"/>
+<area shape="rect" id="node7" href="$class_c_transaction.html" title="The basic transaction that is broadcasted on the network and contained in blocks. ..." alt="" coords="377,267,476,293"/>
+<area shape="rect" id="node10" href="$class_transaction_signature_checker.html" title="TransactionSignatureChecker" alt="" coords="184,357,379,384"/>
+<area shape="rect" id="node8" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="395,176,459,203"/>
+<area shape="rect" id="node9" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="363,91,489,117"/>
+<area shape="rect" id="node11" href="$class_base_signature_checker.html" title="BaseSignatureChecker" alt="" coords="197,267,352,293"/>
+</map>

@@ -1,0 +1,28 @@
+var class_c_spork_manager =
+[
+    [ "CSporkManager", "class_c_spork_manager.html#af25ba284196ede7288bc9855e7f8a8a5", null ],
+    [ "CheckAndRemove", "class_c_spork_manager.html#a8a6dc0992ef94b9d44be37a30deaccf8", null ],
+    [ "Clear", "class_c_spork_manager.html#ab3ee12bdb42837efe958ecf54855a912", null ],
+    [ "ExecuteSpork", "class_c_spork_manager.html#ade3cee4d73664c03ceaa900efeedc395", null ],
+    [ "GetSporkByHash", "class_c_spork_manager.html#a9cec53a1eb6335507d5c88a17f293e7f", null ],
+    [ "GetSporkIDByName", "class_c_spork_manager.html#aaccf829b1ef24509d83302a895e6a295", null ],
+    [ "GetSporkNameByID", "class_c_spork_manager.html#a810b34b5dd3a709cb0e265f155e0b551", null ],
+    [ "GetSporkValue", "class_c_spork_manager.html#ac02210f3ce7c779421aeed383c3f6e6c", null ],
+    [ "IsSporkActive", "class_c_spork_manager.html#a97d20d530b500c013e8bc8649ee13daf", null ],
+    [ "ProcessSpork", "class_c_spork_manager.html#a27d0be91a9dac781937ba3656870170e", null ],
+    [ "SerializationOp", "class_c_spork_manager.html#a96e6de19c80089f7c358e10cd29fc73a", null ],
+    [ "SetMinSporkKeys", "class_c_spork_manager.html#a9f9c15da15f9b063ba2ac53a5a5b376f", null ],
+    [ "SetPrivKey", "class_c_spork_manager.html#a74b20e90882369ed301fc7da04392a0e", null ],
+    [ "SetSporkAddress", "class_c_spork_manager.html#ab547389f09efd11872ac4cdcc6e64148", null ],
+    [ "SporkValueIsActive", "class_c_spork_manager.html#a06f8ad4dcb26b6f10c3d82345ea0aaad", null ],
+    [ "ToString", "class_c_spork_manager.html#a6807dff87018a1252b406107f908b333", null ],
+    [ "UpdateSpork", "class_c_spork_manager.html#a1277aeae7d50a0473c85a5a062d364cb", null ],
+    [ "ADD_SERIALIZE_METHODS", "class_c_spork_manager.html#afe55cb1705a0bb7051872fc2c417ec10", null ],
+    [ "cs", "class_c_spork_manager.html#ac019c867511c8dda34cbfe0d45495007", null ],
+    [ "mapSporksActive", "class_c_spork_manager.html#abc7d02f7090565235de33d4cfb2b1297", null ],
+    [ "mapSporksByHash", "class_c_spork_manager.html#a7090b17ee84cd223871617aa780e4ea8", null ],
+    [ "nMinSporkKeys", "class_c_spork_manager.html#ab83baad71ec5b44cea0c9b92e74ce3f8", null ],
+    [ "SERIALIZATION_VERSION_STRING", "class_c_spork_manager.html#af703cb6b32881eb13765b0a97f918713", null ],
+    [ "setSporkPubKeyIDs", "class_c_spork_manager.html#af593bbc7c753c45b4366fed3263703d7", null ],
+    [ "sporkPrivKey", "class_c_spork_manager.html#a07f73c8f704b74cbc4a6e5d89c00d40f", null ]
+];

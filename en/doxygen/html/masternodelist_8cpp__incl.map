@@ -1,0 +1,31 @@
+<map id="src/qt/masternodelist.cpp" name="src/qt/masternodelist.cpp">
+<area shape="rect" id="node2" href="$masternodelist_8h.html" title="masternodelist.h" alt="" coords="323,155,441,181"/>
+<area shape="rect" id="node11" href="$sync_8h.html" title="sync.h" alt="" coords="877,304,939,331"/>
+<area shape="rect" id="node21" href="$activemasternode_8h.html" title="activemasternode.h" alt="" coords="1769,155,1904,181"/>
+<area shape="rect" id="node27" href="$clientmodel_8h.html" title="clientmodel.h" alt="" coords="1647,155,1745,181"/>
+<area shape="rect" id="node30" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="684,528,791,555"/>
+<area shape="rect" id="node31" href="$guiutil_8h.html" title="guiutil.h" alt="" coords="928,80,995,107"/>
+<area shape="rect" id="node39" href="$init_8h.html" title="init.h" alt="" coords="5,453,56,480"/>
+<area shape="rect" id="node40" href="$masternode-sync_8h.html" title="masternode&#45;sync.h" alt="" coords="2159,155,2292,181"/>
+<area shape="rect" id="node42" href="$masternodeconfig_8h.html" title="masternodeconfig.h" alt="" coords="1553,80,1688,107"/>
+<area shape="rect" id="node43" href="$masternodeman_8h.html" title="masternodeman.h" alt="" coords="1351,80,1477,107"/>
+<area shape="rect" id="node45" href="$netbase_8h.html" title="netbase.h" alt="" coords="1391,379,1469,405"/>
+<area shape="rect" id="node46" href="$qrdialog_8h.html" title="qrdialog.h" alt="" coords="1714,80,1792,107"/>
+<area shape="rect" id="node47" href="$walletmodel_8h.html" title="walletmodel.h" alt="" coords="1930,155,2032,181"/>
+<area shape="rect" id="node48" href="$wallet_8h.html" title="wallet/wallet.h" alt="" coords="1563,229,1668,256"/>
+<area shape="rect" id="node49" href="$univalue_8h.html" title="univalue.h" alt="" coords="1029,528,1109,555"/>
+<area shape="rect" id="node3" href="$platformstyle_8h.html" title="platformstyle.h" alt="" coords="323,229,431,256"/>
+<area shape="rect" id="node5" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="952,379,1109,405"/>
+<area shape="rect" id="node13" href="$deterministicmns_8h.html" title="evo/deterministicmns.h" alt="" coords="945,229,1103,256"/>
+<area shape="rect" id="node6" href="$amount_8h.html" title="amount.h" alt="" coords="917,453,992,480"/>
+<area shape="rect" id="node7" href="$serialize_8h.html" title="serialize.h" alt="" coords="1186,528,1267,555"/>
+<area shape="rect" id="node14" href="$providertx_8h.html" title="providertx.h" alt="" coords="1100,304,1191,331"/>
+<area shape="rect" id="node15" href="$netaddress_8h.html" title="netaddress.h" alt="" coords="1119,453,1216,480"/>
+<area shape="rect" id="node16" href="$compat_8h.html" title="compat.h" alt="" coords="1343,528,1419,555"/>
+<area shape="rect" id="node22" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="1851,379,1957,405"/>
+<area shape="rect" id="node23" href="$key_8h.html" title="key.h" alt="" coords="1694,379,1748,405"/>
+<area shape="rect" id="node24" href="$net_8h.html" title="net.h" alt="" coords="1437,229,1488,256"/>
+<area shape="rect" id="node26" href="$validationinterface_8h.html" title="validationinterface.h" alt="" coords="1744,304,1883,331"/>
+<area shape="rect" id="node41" href="$chain_8h.html" title="chain.h" alt="" coords="2137,453,2201,480"/>
+<area shape="rect" id="node44" href="$masternode_8h.html" title="masternode.h" alt="" coords="1521,155,1623,181"/>
+</map>

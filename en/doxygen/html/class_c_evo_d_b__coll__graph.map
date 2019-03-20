@@ -1,0 +1,8 @@
+<map id="CEvoDB" name="CEvoDB">
+<area shape="rect" id="node2" href="$class_c_d_b_transaction.html" title="CDBTransaction\&lt; RootTransaction,\l RootTransaction \&gt;" alt="" coords="851,121,1082,162"/>
+<area shape="rect" id="node3" href="$class_c_d_b_transaction.html" title="CDBTransaction\&lt; CDBWrapper,\l CDBBatch \&gt;" alt="" coords="504,86,717,127"/>
+<area shape="rect" id="node4" href="$class_c_d_b_wrapper.html" title="CDBWrapper" alt="" coords="7,80,107,107"/>
+<area shape="rect" id="node5" href="$class_c_d_b_batch.html" title="Batch of changes queued to be written to a CDBWrapper. " alt="" coords="248,171,333,197"/>
+<area shape="rect" id="node6" href="$class_c_data_stream.html" title="Double ended buffer combining vector and stream&#45;like interfaces. " alt="" coords="6,175,109,201"/>
+<area shape="rect" id="node7" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="908,239,1025,265"/>
+</map>

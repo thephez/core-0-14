@@ -1,0 +1,12 @@
+<map id="CProUpRegTx" name="CProUpRegTx">
+<area shape="rect" id="node2" href="$class_c_script.html" title="Serialized script, used inside transaction inputs and outputs. " alt="" coords="815,17,881,44"/>
+<area shape="rect" id="node3" href="$classprevector.html" title="Implements a drop&#45;in replacement for std::vector&lt;T&gt; which stores up to N elements directly (without h..." alt="" coords="527,16,623,43"/>
+<area shape="rect" id="node4" href="$unionprevector_1_1direct__or__indirect.html" title="prevector\&lt; N, T, Size,\l Diff \&gt;::direct_or_indirect" alt="" coords="185,5,351,46"/>
+<area shape="rect" id="node5" href="$class_c_key_i_d.html" title="A reference to a CKey: the Hash160 of its serialized public key. " alt="" coords="813,68,883,95"/>
+<area shape="rect" id="node6" href="$classuint160.html" title="160&#45;bit opaque blob. " alt="" coords="543,68,607,95"/>
+<area shape="rect" id="node7" href="$classbase__blob.html" title="base_blob\&lt; 160 \&gt;" alt="" coords="205,71,331,97"/>
+<area shape="rect" id="node8" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="236,155,300,181"/>
+<area shape="rect" id="node11" href="$class_c_b_l_s_wrapper.html" title="CBLSWrapper\&lt; bls::Public\lKey, BLS_CURVE_PUBKEY\l_SIZE, CBLSPublicKey \&gt;" alt="" coords="477,169,672,225"/>
+<area shape="rect" id="node9" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="6,155,133,181"/>
+<area shape="rect" id="node10" href="$class_c_b_l_s_public_key.html" title="CBLSPublicKey" alt="" coords="790,173,906,200"/>
+</map>

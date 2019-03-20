@@ -1,0 +1,6 @@
+<map id="ContributionVerifier::BatchState" name="ContributionVerifier::BatchState">
+<area shape="rect" id="node2" href="$class_c_b_l_s_secret_key.html" title="CBLSSecretKey" alt="" coords="63,280,181,307"/>
+<area shape="rect" id="node3" href="$class_c_b_l_s_wrapper.html" title="CBLSWrapper\&lt; bls::Private\lKey, BLS_CURVE_SECKEY_SIZE,\l CBLSSecretKey \&gt;" alt="" coords="5,173,240,229"/>
+<area shape="rect" id="node4" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="91,83,155,109"/>
+<area shape="rect" id="node5" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="59,5,185,32"/>
+</map>

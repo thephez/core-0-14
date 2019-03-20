@@ -1,0 +1,9 @@
+<map id="CSuperblock" name="CSuperblock">
+<area shape="rect" id="node2" href="$class_c_governance_object.html" title="Governance Object. " alt="" coords="822,131,962,157"/>
+<area shape="rect" id="node3" href="$class_c_out_point.html" title="An outpoint &#45; a combination of a transaction hash and an index n into its vout. " alt="" coords="511,104,593,131"/>
+<area shape="rect" id="node4" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="263,43,327,69"/>
+<area shape="rect" id="node5" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="22,43,149,69"/>
+<area shape="rect" id="node6" href="$class_c_governance_object_vote_file.html" title="Represents the collection of votes associated with a given CGovernanceObject Recently received votes ..." alt="" coords="458,155,646,181"/>
+<area shape="rect" id="node7" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="493,205,611,232"/>
+<area shape="rect" id="node10" href="$class_cache_multi_map.html" title="CacheMultiMap\&lt; COutPoint,\l vote_time_pair_t \&gt;" alt="" coords="457,257,647,298"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="src/qt/optionsmodel.h" name="src/qt/optionsmodel.h">
+<area shape="rect" id="node2" href="$bitcoingui_8cpp.html" title="src/qt/bitcoingui.cpp" alt="" coords="5,80,144,107"/>
+<area shape="rect" id="node3" href="$coincontroldialog_8cpp.html" title="src/qt/coincontroldialog.cpp" alt="" coords="168,80,349,107"/>
+<area shape="rect" id="node4" href="$dash_8cpp.html" title="src/qt/dash.cpp" alt="" coords="373,80,484,107"/>
+<area shape="rect" id="node5" href="$optionsdialog_8cpp.html" title="src/qt/optionsdialog.cpp" alt="" coords="509,80,668,107"/>
+<area shape="rect" id="node6" href="$optionsmodel_8cpp.html" title="src/qt/optionsmodel.cpp" alt="" coords="694,80,855,107"/>
+<area shape="rect" id="node7" href="$overviewpage_8cpp.html" title="src/qt/overviewpage.cpp" alt="" coords="879,80,1043,107"/>
+<area shape="rect" id="node8" href="$paymentserver_8cpp.html" title="src/qt/paymentserver.cpp" alt="" coords="1068,80,1239,107"/>
+<area shape="rect" id="node9" href="$qrdialog_8cpp.html" title="src/qt/qrdialog.cpp" alt="" coords="1263,80,1392,107"/>
+<area shape="rect" id="node10" href="$receivecoinsdialog_8cpp.html" title="src/qt/receivecoinsdialog.cpp" alt="" coords="1417,80,1607,107"/>
+<area shape="rect" id="node11" href="$receiverequestdialog_8cpp.html" title="src/qt/receiverequestdialog.cpp" alt="" coords="1632,80,1835,107"/>
+<area shape="rect" id="node12" href="$recentrequeststablemodel_8cpp.html" title="src/qt/recentrequeststablemodel.cpp" alt="" coords="1859,80,2092,107"/>
+<area shape="rect" id="node13" href="$sendcoinsdialog_8cpp.html" title="src/qt/sendcoinsdialog.cpp" alt="" coords="2117,80,2293,107"/>
+<area shape="rect" id="node14" href="$sendcoinsentry_8cpp.html" title="src/qt/sendcoinsentry.cpp" alt="" coords="2318,80,2489,107"/>
+<area shape="rect" id="node15" href="$transactiontablemodel_8cpp.html" title="src/qt/transactiontablemodel.cpp" alt="" coords="2515,80,2724,107"/>
+<area shape="rect" id="node16" href="$transactionview_8cpp.html" title="src/qt/transactionview.cpp" alt="" coords="2750,80,2924,107"/>
+<area shape="rect" id="node17" href="$walletview_8cpp.html" title="src/qt/walletview.cpp" alt="" coords="2949,80,3093,107"/>
+</map>

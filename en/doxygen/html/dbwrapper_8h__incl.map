@@ -1,0 +1,17 @@
+<map id="src/dbwrapper.h" name="src/dbwrapper.h">
+<area shape="rect" id="node2" href="$clientversion_8h.html" title="clientversion.h" alt="" coords="1170,237,1277,264"/>
+<area shape="rect" id="node5" href="$serialize_8h.html" title="serialize.h" alt="" coords="607,237,687,264"/>
+<area shape="rect" id="node22" href="$streams_8h.html" title="streams.h" alt="" coords="291,155,370,181"/>
+<area shape="rect" id="node26" href="$util_8h.html" title="util.h" alt="" coords="1274,80,1325,107"/>
+<area shape="rect" id="node46" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="1453,237,1577,264"/>
+<area shape="rect" id="node47" href="$version_8h.html" title="version.h" alt="" coords="1605,80,1678,107"/>
+<area shape="rect" id="node6" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1120,320,1238,347"/>
+<area shape="rect" id="node19" href="$prevector_8h.html" title="prevector.h" alt="" coords="652,320,738,347"/>
+<area shape="rect" id="node8" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="1053,395,1187,421"/>
+<area shape="rect" id="node23" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="815,230,941,271"/>
+<area shape="rect" id="node24" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="919,320,1045,347"/>
+<area shape="rect" id="node27" href="$compat_8h.html" title="compat.h" alt="" coords="2075,155,2150,181"/>
+<area shape="rect" id="node38" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="431,155,522,181"/>
+<area shape="rect" id="node39" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="2702,237,2775,264"/>
+<area shape="rect" id="node40" href="$amount_8h.html" title="amount.h" alt="" coords="657,155,733,181"/>
+</map>

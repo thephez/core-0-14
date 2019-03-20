@@ -1,0 +1,40 @@
+<map id="src/spork.cpp" name="src/spork.cpp">
+<area shape="rect" id="node2" href="$spork_8h.html" title="spork.h" alt="" coords="923,80,988,107"/>
+<area shape="rect" id="node30" href="$base58_8h.html" title="base58.h" alt="" coords="464,80,537,107"/>
+<area shape="rect" id="node31" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="837,229,944,256"/>
+<area shape="rect" id="node38" href="$validation_8h.html" title="validation.h" alt="" coords="2004,80,2092,107"/>
+<area shape="rect" id="node47" href="$messagesigner_8h.html" title="messagesigner.h" alt="" coords="778,80,899,107"/>
+<area shape="rect" id="node48" href="$net__processing_8h.html" title="net_processing.h" alt="" coords="2390,80,2511,107"/>
+<area shape="rect" id="node50" href="$netmessagemaker_8h.html" title="netmessagemaker.h" alt="" coords="2226,80,2365,107"/>
+<area shape="rect" id="node3" href="$hash_8h.html" title="hash.h" alt="" coords="1711,312,1772,339"/>
+<area shape="rect" id="node22" href="$net_8h.html" title="net.h" alt="" coords="2348,155,2399,181"/>
+<area shape="rect" id="node27" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="191,395,315,421"/>
+<area shape="rect" id="node28" href="$key_8h.html" title="key.h" alt="" coords="811,155,865,181"/>
+<area shape="rect" id="node4" href="$ripemd160_8h.html" title="crypto/ripemd160.h" alt="" coords="1551,469,1684,496"/>
+<area shape="rect" id="node6" href="$sha256_8h.html" title="crypto/sha256.h" alt="" coords="2052,469,2167,496"/>
+<area shape="rect" id="node7" href="$prevector_8h.html" title="prevector.h" alt="" coords="2191,469,2277,496"/>
+<area shape="rect" id="node8" href="$serialize_8h.html" title="serialize.h" alt="" coords="2461,395,2541,421"/>
+<area shape="rect" id="node15" href="$uint256_8h.html" title="uint256.h" alt="" coords="855,395,928,421"/>
+<area shape="rect" id="node16" href="$version_8h.html" title="version.h" alt="" coords="2260,395,2333,421"/>
+<area shape="rect" id="node17" href="$sph__blake_8h.html" title="BLAKE interface. " alt="" coords="1333,395,1464,421"/>
+<area shape="rect" id="node18" href="$sph__bmw_8h.html" title="BMW interface. " alt="" coords="1489,395,1617,421"/>
+<area shape="rect" id="node19" href="$sph__groestl_8h.html" title="Groestl interface. " alt="" coords="1642,395,1781,421"/>
+<area shape="rect" id="node20" href="$sph__jh_8h.html" title="JH interface. " alt="" coords="1806,395,1916,421"/>
+<area shape="rect" id="node21" href="$sph__keccak_8h.html" title="Keccak interface. " alt="" coords="1941,395,2083,421"/>
+<area shape="rect" id="node23" href="$protocol_8h.html" title="protocol.h" alt="" coords="1983,312,2061,339"/>
+<area shape="rect" id="node24" href="$sync_8h.html" title="sync.h" alt="" coords="2249,229,2311,256"/>
+<area shape="rect" id="node29" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="1056,229,1129,256"/>
+<area shape="rect" id="node35" href="$script_8h.html" title="script/script.h" alt="" coords="1105,395,1207,421"/>
+<area shape="rect" id="node36" href="$standard_8h.html" title="script/standard.h" alt="" coords="243,312,361,339"/>
+<area shape="rect" id="node37" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="43,305,168,346"/>
+<area shape="rect" id="node32" href="$chainparamsbase_8h.html" title="chainparamsbase.h" alt="" coords="645,395,779,421"/>
+<area shape="rect" id="node33" href="$params_8h.html" title="consensus/params.h" alt="" coords="1097,312,1239,339"/>
+<area shape="rect" id="node34" href="$block_8h.html" title="primitives/block.h" alt="" coords="1263,312,1387,339"/>
+<area shape="rect" id="node39" href="$amount_8h.html" title="amount.h" alt="" coords="1826,312,1901,339"/>
+<area shape="rect" id="node40" href="$chain_8h.html" title="chain.h" alt="" coords="968,229,1032,256"/>
+<area shape="rect" id="node41" href="$coins_8h.html" title="coins.h" alt="" coords="2060,229,2124,256"/>
+<area shape="rect" id="node42" href="$script__error_8h.html" title="script_error.h" alt="" coords="1624,155,1723,181"/>
+<area shape="rect" id="node43" href="$versionbits_8h.html" title="versionbits.h" alt="" coords="1504,155,1600,181"/>
+<area shape="rect" id="node44" href="$spentindex_8h.html" title="spentindex.h" alt="" coords="1497,229,1593,256"/>
+<area shape="rect" id="node49" href="$validationinterface_8h.html" title="validationinterface.h" alt="" coords="3023,155,3161,181"/>
+</map>

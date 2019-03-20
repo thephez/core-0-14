@@ -1,0 +1,13 @@
+<map id="CGovernanceManager" name="CGovernanceManager">
+<area shape="rect" id="node2" href="$class_cache_map.html" title="CacheMap\&lt; uint256,\l CGovernanceObject * \&gt;" alt="" coords="896,5,1061,46"/>
+<area shape="rect" id="node3" href="$class_cache_map.html" title="CacheMap\&lt; uint256,\l CGovernanceVote \&gt;" alt="" coords="906,70,1051,111"/>
+<area shape="rect" id="node4" href="$class_c_deterministic_m_n_list.html" title="CDeterministicMNList" alt="" coords="903,136,1054,163"/>
+<area shape="rect" id="node5" href="$classimmer_1_1map.html" title="immer::map\&lt; uint256,\l std::pair\&lt; uint256,\l uint32_t \&gt; \&gt;" alt="" coords="545,16,695,72"/>
+<area shape="rect" id="node6" href="$structimmer_1_1detail_1_1hamts_1_1champ.html" title="immer::detail::hamts\l::champ\&lt; value_t, hash\l_key, equal_key, default\l_memory_policy, default_bits \&gt;" alt="" coords="243,41,447,111"/>
+<area shape="rect" id="node10" href="$classimmer_1_1map.html" title="immer::map\&lt; uint256,\l CDeterministicMNCPtr \&gt;" alt="" coords="533,95,707,137"/>
+<area shape="rect" id="node7" href="$structimmer_1_1detail_1_1hamts_1_1node.html" title="immer::detail::hamts\l::node\&lt; T, Hash, Equal,\l MemoryPolicy, B \&gt;" alt="" coords="5,48,168,104"/>
+<area shape="rect" id="node8" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="588,161,652,188"/>
+<area shape="rect" id="node9" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="282,161,409,188"/>
+<area shape="rect" id="node11" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="920,187,1037,213"/>
+<area shape="rect" id="node14" href="$class_cache_multi_map.html" title="CacheMultiMap\&lt; uint256,\l vote_time_pair_t \&gt;" alt="" coords="893,238,1064,279"/>
+</map>

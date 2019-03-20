@@ -1,0 +1,22 @@
+<map id="src/masternode&#45;payments.h" name="src/masternode&#45;payments.h">
+<area shape="rect" id="node2" href="$util_8h.html" title="util.h" alt="" coords="701,304,752,331"/>
+<area shape="rect" id="node37" href="$core__io_8h.html" title="core_io.h" alt="" coords="3108,461,3181,488"/>
+<area shape="rect" id="node38" href="$key_8h.html" title="key.h" alt="" coords="2791,304,2845,331"/>
+<area shape="rect" id="node42" href="$masternode_8h.html" title="masternode.h" alt="" coords="2480,80,2581,107"/>
+<area shape="rect" id="node46" href="$utilstrencodings_8h.html" title="utilstrencodings.h" alt="" coords="2403,461,2527,488"/>
+<area shape="rect" id="node49" href="$net__processing_8h.html" title="net_processing.h" alt="" coords="1163,155,1284,181"/>
+<area shape="rect" id="node3" href="$compat_8h.html" title="compat.h" alt="" coords="1271,379,1347,405"/>
+<area shape="rect" id="node18" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="109,461,200,488"/>
+<area shape="rect" id="node24" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="351,461,424,488"/>
+<area shape="rect" id="node27" href="$amount_8h.html" title="amount.h" alt="" coords="2070,379,2145,405"/>
+<area shape="rect" id="node28" href="$serialize_8h.html" title="serialize.h" alt="" coords="2551,461,2632,488"/>
+<area shape="rect" id="node39" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="2807,379,2880,405"/>
+<area shape="rect" id="node40" href="$uint256_8h.html" title="uint256.h" alt="" coords="2657,461,2731,488"/>
+<area shape="rect" id="node41" href="$secure_8h.html" title="support/allocators\l/secure.h" alt="" coords="2959,454,3084,495"/>
+<area shape="rect" id="node43" href="$validation_8h.html" title="validation.h" alt="" coords="2027,304,2115,331"/>
+<area shape="rect" id="node44" href="$spork_8h.html" title="spork.h" alt="" coords="2463,155,2528,181"/>
+<area shape="rect" id="node47" href="$bls_8h.html" title="bls/bls.h" alt="" coords="2458,379,2528,405"/>
+<area shape="rect" id="node48" href="$deterministicmns_8h.html" title="evo/deterministicmns.h" alt="" coords="2609,304,2767,331"/>
+<area shape="rect" id="node45" href="$net_8h.html" title="net.h" alt="" coords="1360,229,1411,256"/>
+<area shape="rect" id="node50" href="$validationinterface_8h.html" title="validationinterface.h" alt="" coords="588,229,727,256"/>
+</map>

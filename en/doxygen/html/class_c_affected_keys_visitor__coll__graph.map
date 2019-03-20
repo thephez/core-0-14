@@ -1,0 +1,4 @@
+<map id="CAffectedKeysVisitor" name="CAffectedKeysVisitor">
+<area shape="rect" id="node3" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="166,275,252,301"/>
+<area shape="rect" id="node4" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="151,176,267,203"/>
+</map>

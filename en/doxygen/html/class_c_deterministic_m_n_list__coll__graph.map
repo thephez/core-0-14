@@ -1,0 +1,8 @@
+<map id="CDeterministicMNList" name="CDeterministicMNList">
+<area shape="rect" id="node2" href="$classimmer_1_1map.html" title="immer::map\&lt; uint256,\l std::pair\&lt; uint256,\l uint32_t \&gt; \&gt;" alt="" coords="545,5,695,61"/>
+<area shape="rect" id="node3" href="$structimmer_1_1detail_1_1hamts_1_1champ.html" title="immer::detail::hamts\l::champ\&lt; value_t, hash\l_key, equal_key, default\l_memory_policy, default_bits \&gt;" alt="" coords="243,41,447,111"/>
+<area shape="rect" id="node7" href="$classimmer_1_1map.html" title="immer::map\&lt; uint256,\l CDeterministicMNCPtr \&gt;" alt="" coords="533,85,707,126"/>
+<area shape="rect" id="node4" href="$structimmer_1_1detail_1_1hamts_1_1node.html" title="immer::detail::hamts\l::node\&lt; T, Hash, Equal,\l MemoryPolicy, B \&gt;" alt="" coords="5,48,168,104"/>
+<area shape="rect" id="node5" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="588,151,652,177"/>
+<area shape="rect" id="node6" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="282,151,409,177"/>
+</map>

@@ -1,0 +1,22 @@
+<map id="RecentRequestsTableModel" name="RecentRequestsTableModel">
+<area shape="rect" id="node3" href="$class_wallet_model.html" title="Interface to Bitcoin wallet from Qt view code. " alt="" coords="204,629,298,656"/>
+<area shape="rect" id="node5" href="$class_transaction_table_model.html" title="UI model for the transaction table of a wallet. " alt="" coords="566,720,724,747"/>
+<area shape="rect" id="node23" href="$class_address_table_model.html" title="Qt model of the address book in the core. " alt="" coords="91,720,228,747"/>
+<area shape="rect" id="node6" href="$class_transaction_table_priv.html" title="TransactionTablePriv" alt="" coords="748,811,893,837"/>
+<area shape="rect" id="node7" href="$class_c_wallet.html" title="A CWallet is an extension of a keystore, which also maintains a set of transactions and balances..." alt="" coords="788,539,857,565"/>
+<area shape="rect" id="node24" href="$class_address_table_priv.html" title="AddressTablePriv" alt="" coords="169,811,294,837"/>
+<area shape="rect" id="node8" href="$class_c_crypto_key_store.html" title="Keystore which keeps the private keys encrypted. " alt="" coords="884,435,1009,461"/>
+<area shape="rect" id="node9" href="$class_c_basic_key_store.html" title="Basic key store, that keeps keys in an address&#45;&gt;secret map. " alt="" coords="931,357,1049,384"/>
+<area shape="rect" id="node10" href="$class_c_key_store.html" title="A virtual base class for key stores. " alt="" coords="898,267,984,293"/>
+<area shape="rect" id="node11" href="$class_c_critical_section.html" title="Wrapped boost mutex: supports recursive locking, but no waiting TODO: We should move away from using ..." alt="" coords="857,176,973,203"/>
+<area shape="rect" id="node14" href="$class_c_h_d_chain.html" title="CHDChain" alt="" coords="1031,267,1117,293"/>
+<area shape="rect" id="node15" href="$classuint256.html" title="256&#45;bit opaque blob. " alt="" coords="1104,176,1168,203"/>
+<area shape="rect" id="node16" href="$classbase__blob.html" title="base_blob\&lt; 256 \&gt;" alt="" coords="1072,91,1198,117"/>
+<area shape="rect" id="node17" href="$class_c_validation_interface.html" title="CValidationInterface" alt="" coords="1034,435,1173,461"/>
+<area shape="rect" id="node18" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="1198,435,1280,461"/>
+<area shape="rect" id="node19" href="$class_c_pub_key.html" title="An encapsulated public key. " alt="" coords="544,435,622,461"/>
+<area shape="rect" id="node20" href="$class_c_wallet_d_b.html" title="Access to the wallet database. " alt="" coords="661,435,749,461"/>
+<area shape="rect" id="node21" href="$class_c_d_b.html" title="RAII class that provides access to a Berkeley database. " alt="" coords="680,357,730,384"/>
+<area shape="rect" id="node22" href="$class_platform_style.html" title="PlatformStyle" alt="" coords="594,629,696,656"/>
+<area shape="rect" id="node25" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Bitcoin client. " alt="" coords="50,539,152,565"/>
+</map>

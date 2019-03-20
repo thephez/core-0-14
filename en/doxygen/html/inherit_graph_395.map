@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classimmer_1_1detail_1_1iterator__facade.html" title="immer::detail::iterator\l_facade\&lt; DerivedT, IteratorCategory\lT, T, ReferenceT, DifferenceTypeT,\l PointerT \&gt;" alt="" coords="117,5,352,75"/>
+<area shape="rect" id="node3" href="$classimmer_1_1detail_1_1iterator__facade.html" title="immer::detail::iterator\l_facade\&lt; champ_iterator\l\&lt; T, Hash, Eq, MP, B \&gt;,\l std::forward_iterator_tag,\l T, const T &amp;\&gt;" alt="" coords="149,100,320,185"/>
+<area shape="rect" id="node5" href="$classimmer_1_1detail_1_1iterator__facade.html" title="immer::detail::iterator\l_facade\&lt; rbtree_iterator\l\&lt; T, MP, B, BL \&gt;, std::random\l_access_iterator_tag, T, const T &amp;\&gt;" alt="" coords="119,210,351,281"/>
+<area shape="rect" id="node7" href="$classimmer_1_1detail_1_1iterator__facade.html" title="immer::detail::iterator\l_facade\&lt; rrbtree_iterator\l\&lt; T, MP, B, BL \&gt;, std::random\l_access_iterator_tag, T, const T &amp;\&gt;" alt="" coords="119,305,351,375"/>
+<area shape="rect" id="node4" href="$structimmer_1_1detail_1_1hamts_1_1champ__iterator.html" title="immer::detail::hamts\l::champ_iterator\&lt; T,\l Hash, Eq, MP, B \&gt;" alt="" coords="400,115,541,171"/>
+<area shape="rect" id="node6" href="$structimmer_1_1detail_1_1rbts_1_1rbtree__iterator.html" title="immer::detail::rbts\l::rbtree_iterator\&lt; T,\l MP, B, BL \&gt;" alt="" coords="403,217,538,273"/>
+<area shape="rect" id="node8" href="$structimmer_1_1detail_1_1rbts_1_1rrbtree__iterator.html" title="immer::detail::rbts\l::rrbtree_iterator\&lt;\l T, MP, B, BL \&gt;" alt="" coords="407,312,534,368"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="src/qt/sendcoinsentry.cpp" name="src/qt/sendcoinsentry.cpp">
+<area shape="rect" id="node2" href="$sendcoinsentry_8h.html" title="sendcoinsentry.h" alt="" coords="608,80,729,107"/>
+<area shape="rect" id="node3" href="$walletmodel_8h.html" title="walletmodel.h" alt="" coords="374,155,476,181"/>
+<area shape="rect" id="node24" href="$addressbookpage_8h.html" title="addressbookpage.h" alt="" coords="966,80,1100,107"/>
+<area shape="rect" id="node26" href="$addresstablemodel_8h.html" title="addresstablemodel.h" alt="" coords="1124,80,1266,107"/>
+<area shape="rect" id="node29" href="$guiutil_8h.html" title="guiutil.h" alt="" coords="1268,155,1334,181"/>
+<area shape="rect" id="node44" href="$optionsmodel_8h.html" title="optionsmodel.h" alt="" coords="1434,155,1544,181"/>
+<area shape="rect" id="node46" href="$platformstyle_8h.html" title="platformstyle.h" alt="" coords="1506,80,1613,107"/>
+<area shape="rect" id="node4" href="$paymentrequestplus_8h.html" title="paymentrequestplus.h" alt="" coords="350,237,500,264"/>
+<area shape="rect" id="node13" href="$walletmodeltransaction_8h.html" title="walletmodeltransaction.h" alt="" coords="107,237,273,264"/>
+<area shape="rect" id="node15" href="$secure_8h.html" title="support/allocators\l/secure.h" alt="" coords="576,230,701,271"/>
+<area shape="rect" id="node6" href="$base58_8h.html" title="base58.h" alt="" coords="676,320,749,347"/>
+<area shape="rect" id="node16" href="$lockedpool_8h.html" title="support/lockedpool.h" alt="" coords="1127,320,1269,347"/>
+<area shape="rect" id="node20" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="825,320,950,347"/>
+<area shape="rect" id="node30" href="$amount_8h.html" title="amount.h" alt="" coords="1575,237,1650,264"/>
+<area shape="rect" id="node31" href="$serialize_8h.html" title="serialize.h" alt="" coords="1312,320,1393,347"/>
+<area shape="rect" id="node32" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1554,395,1672,421"/>
+</map>

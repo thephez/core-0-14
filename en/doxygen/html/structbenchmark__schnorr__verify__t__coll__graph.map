@@ -1,0 +1,11 @@
+<map id="benchmark_schnorr_verify_t" name="benchmark_schnorr_verify_t">
+<area shape="rect" id="node2" href="$structbenchmark__schnorr__sig__t.html" title="benchmark_schnorr_sig_t" alt="" coords="5,336,176,363"/>
+<area shape="rect" id="node3" href="$structsecp256k1__context__struct.html" title="secp256k1_context_struct" alt="" coords="201,336,375,363"/>
+<area shape="rect" id="node4" href="$structsecp256k1__ecmult__gen__context.html" title="secp256k1_ecmult_gen\l_context" alt="" coords="14,217,172,258"/>
+<area shape="rect" id="node5" href="$structsecp256k1__gej.html" title="A group element of the secp256k1 curve, in jacobian coordinates. " alt="" coords="39,125,148,152"/>
+<area shape="rect" id="node6" href="$structsecp256k1__fe.html" title="secp256k1_fe" alt="" coords="42,5,144,32"/>
+<area shape="rect" id="node7" href="$structsecp256k1__ge__storage.html" title="secp256k1_ge_storage" alt="" coords="182,125,337,152"/>
+<area shape="rect" id="node10" href="$structsecp256k1__ecmult__context.html" title="secp256k1_ecmult_context" alt="" coords="197,224,379,251"/>
+<area shape="rect" id="node8" href="$structsecp256k1__fe__storage.html" title="secp256k1_fe_storage" alt="" coords="183,5,336,32"/>
+<area shape="rect" id="node9" href="$structsecp256k1__callback.html" title="secp256k1_callback" alt="" coords="403,224,543,251"/>
+</map>

@@ -1,0 +1,14 @@
+<map id="src/core_memusage.h" name="src/core_memusage.h">
+<area shape="rect" id="node2" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="788,155,946,181"/>
+<area shape="rect" id="node29" href="$block_8h.html" title="primitives/block.h" alt="" coords="921,80,1044,107"/>
+<area shape="rect" id="node30" href="$memusage_8h.html" title="memusage.h" alt="" coords="1837,304,1934,331"/>
+<area shape="rect" id="node3" href="$amount_8h.html" title="amount.h" alt="" coords="1021,229,1096,256"/>
+<area shape="rect" id="node4" href="$serialize_8h.html" title="serialize.h" alt="" coords="1136,304,1216,331"/>
+<area shape="rect" id="node23" href="$script_8h.html" title="script/script.h" alt="" coords="386,304,487,331"/>
+<area shape="rect" id="node27" href="$uint256_8h.html" title="uint256.h" alt="" coords="830,304,903,331"/>
+<area shape="rect" id="node5" href="$endian_8h.html" title="compat/endian.h" alt="" coords="976,453,1094,480"/>
+<area shape="rect" id="node20" href="$prevector_8h.html" title="prevector.h" alt="" coords="618,379,704,405"/>
+<area shape="rect" id="node7" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="967,528,1102,555"/>
+<area shape="rect" id="node24" href="$common_8h.html" title="crypto/common.h" alt="" coords="159,379,282,405"/>
+<area shape="rect" id="node31" href="$indirectmap_8h.html" title="indirectmap.h" alt="" coords="1836,379,1935,405"/>
+</map>

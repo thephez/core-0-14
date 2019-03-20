@@ -1,0 +1,27 @@
+<map id="src/qt/askpassphrasedialog.cpp" name="src/qt/askpassphrasedialog.cpp">
+<area shape="rect" id="node2" href="$askpassphrasedialog_8h.html" title="askpassphrasedialog.h" alt="" coords="1049,80,1203,107"/>
+<area shape="rect" id="node5" href="$guiconstants_8h.html" title="guiconstants.h" alt="" coords="1487,80,1593,107"/>
+<area shape="rect" id="node6" href="$walletmodel_8h.html" title="walletmodel.h" alt="" coords="1618,80,1720,107"/>
+<area shape="rect" id="node33" href="$secure_8h.html" title="support/allocators\l/secure.h" alt="" coords="1604,454,1729,495"/>
+<area shape="rect" id="node7" href="$paymentrequestplus_8h.html" title="paymentrequestplus.h" alt="" coords="1082,155,1232,181"/>
+<area shape="rect" id="node46" href="$walletmodeltransaction_8h.html" title="walletmodeltransaction.h" alt="" coords="1526,155,1692,181"/>
+<area shape="rect" id="node9" href="$base58_8h.html" title="base58.h" alt="" coords="739,229,812,256"/>
+<area shape="rect" id="node10" href="$chainparams_8h.html" title="chainparams.h" alt="" coords="459,379,565,405"/>
+<area shape="rect" id="node30" href="$key_8h.html" title="key.h" alt="" coords="995,304,1049,331"/>
+<area shape="rect" id="node31" href="$pubkey_8h.html" title="pubkey.h" alt="" coords="985,379,1059,405"/>
+<area shape="rect" id="node37" href="$script_8h.html" title="script/script.h" alt="" coords="707,552,808,579"/>
+<area shape="rect" id="node39" href="$standard_8h.html" title="script/standard.h" alt="" coords="66,461,184,488"/>
+<area shape="rect" id="node41" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="1445,545,1571,586"/>
+<area shape="rect" id="node11" href="$chainparamsbase_8h.html" title="chainparamsbase.h" alt="" coords="347,552,481,579"/>
+<area shape="rect" id="node14" href="$params_8h.html" title="consensus/params.h" alt="" coords="363,461,505,488"/>
+<area shape="rect" id="node22" href="$block_8h.html" title="primitives/block.h" alt="" coords="582,461,705,488"/>
+<area shape="rect" id="node29" href="$protocol_8h.html" title="protocol.h" alt="" coords="209,461,287,488"/>
+<area shape="rect" id="node15" href="$uint256_8h.html" title="uint256.h" alt="" coords="557,552,631,579"/>
+<area shape="rect" id="node19" href="$common_8h.html" title="crypto/common.h" alt="" coords="464,635,587,661"/>
+<area shape="rect" id="node23" href="$serialize_8h.html" title="serialize.h" alt="" coords="1289,552,1369,579"/>
+<area shape="rect" id="node27" href="$prevector_8h.html" title="prevector.h" alt="" coords="1265,635,1351,661"/>
+<area shape="rect" id="node32" href="$hash_8h.html" title="hash.h" alt="" coords="1136,461,1197,488"/>
+<area shape="rect" id="node34" href="$lockedpool_8h.html" title="support/lockedpool.h" alt="" coords="1595,552,1737,579"/>
+<area shape="rect" id="node36" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="1717,635,1843,661"/>
+<area shape="rect" id="node40" href="$interpreter_8h.html" title="script/interpreter.h" alt="" coords="145,552,271,579"/>
+</map>

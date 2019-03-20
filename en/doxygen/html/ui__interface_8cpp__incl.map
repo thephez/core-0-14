@@ -1,0 +1,12 @@
+<map id="src/ui_interface.cpp" name="src/ui_interface.cpp">
+<area shape="rect" id="node2" href="$ui__interface_8h.html" title="ui_interface.h" alt="" coords="109,80,208,107"/>
+<area shape="rect" id="node7" href="$util_8h.html" title="util.h" alt="" coords="2525,80,2576,107"/>
+<area shape="rect" id="node8" href="$compat_8h.html" title="compat.h" alt="" coords="1333,163,1408,189"/>
+<area shape="rect" id="node23" href="$tinyformat_8h.html" title="tinyformat.h" alt="" coords="2183,163,2273,189"/>
+<area shape="rect" id="node29" href="$utiltime_8h.html" title="utiltime.h" alt="" coords="2437,245,2511,272"/>
+<area shape="rect" id="node30" href="$amount_8h.html" title="amount.h" alt="" coords="2570,163,2645,189"/>
+<area shape="rect" id="node31" href="$serialize_8h.html" title="serialize.h" alt="" coords="2587,245,2668,272"/>
+<area shape="rect" id="node32" href="$endian_8h.html" title="compat/endian.h" alt="" coords="2058,320,2176,347"/>
+<area shape="rect" id="node44" href="$prevector_8h.html" title="prevector.h" alt="" coords="2743,320,2829,347"/>
+<area shape="rect" id="node33" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="2108,395,2243,421"/>
+</map>

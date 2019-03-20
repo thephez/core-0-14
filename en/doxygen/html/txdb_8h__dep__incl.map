@@ -1,0 +1,8 @@
+<map id="src/txdb.h" name="src/txdb.h">
+<area shape="rect" id="node2" href="$init_8cpp.html" title="src/init.cpp" alt="" coords="5,80,91,107"/>
+<area shape="rect" id="node3" href="$optionsdialog_8cpp.html" title="src/qt/optionsdialog.cpp" alt="" coords="116,80,275,107"/>
+<area shape="rect" id="node4" href="$optionsmodel_8cpp.html" title="src/qt/optionsmodel.cpp" alt="" coords="301,80,461,107"/>
+<area shape="rect" id="node5" href="$blockchain_8cpp.html" title="src/rpc/blockchain.cpp" alt="" coords="486,80,639,107"/>
+<area shape="rect" id="node6" href="$txdb_8cpp.html" title="src/txdb.cpp" alt="" coords="663,80,757,107"/>
+<area shape="rect" id="node7" href="$validation_8cpp.html" title="src/validation.cpp" alt="" coords="782,80,905,107"/>
+</map>

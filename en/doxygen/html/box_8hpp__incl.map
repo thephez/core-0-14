@@ -1,0 +1,21 @@
+<map id="src/immer/box.hpp" name="src/immer/box.hpp">
+<area shape="rect" id="node2" href="$util_8hpp.html" title="immer/detail/util.hpp" alt="" coords="100,80,239,107"/>
+<area shape="rect" id="node8" href="$memory__policy_8hpp.html" title="immer/memory_policy.hpp" alt="" coords="752,80,926,107"/>
+<area shape="rect" id="node3" href="$config_8hpp.html" title="immer/config.hpp" alt="" coords="492,435,615,461"/>
+<area shape="rect" id="node9" href="$cpp__heap_8hpp.html" title="immer/heap/cpp_heap.hpp" alt="" coords="364,163,538,189"/>
+<area shape="rect" id="node10" href="$heap__policy_8hpp.html" title="immer/heap/heap_policy.hpp" alt="" coords="745,163,932,189"/>
+<area shape="rect" id="node24" href="$refcount__policy_8hpp.html" title="immer/refcount/refcount\l_policy.hpp" alt="" coords="1663,155,1822,197"/>
+<area shape="rect" id="node25" href="$no__refcount__policy_8hpp.html" title="immer/refcount/no_refcount\l_policy.hpp" alt="" coords="1619,246,1800,287"/>
+<area shape="rect" id="node27" href="$unsafe__refcount__policy_8hpp.html" title="immer/refcount/unsafe\l_refcount_policy.hpp" alt="" coords="1436,155,1588,197"/>
+<area shape="rect" id="node28" href="$no__transience__policy_8hpp.html" title="immer/transience/no\l_transience_policy.hpp" alt="" coords="566,155,719,197"/>
+<area shape="rect" id="node29" href="$gc__transience__policy_8hpp.html" title="immer/transience/gc\l_transience_policy.hpp" alt="" coords="1258,155,1411,197"/>
+<area shape="rect" id="node11" href="$debug__size__heap_8hpp.html" title="immer/heap/debug_size\l_heap.hpp" alt="" coords="382,246,540,287"/>
+<area shape="rect" id="node15" href="$free__list__heap_8hpp.html" title="immer/heap/free_list\l_heap.hpp" alt="" coords="905,246,1044,287"/>
+<area shape="rect" id="node20" href="$split__heap_8hpp.html" title="immer/heap/split_heap.hpp" alt="" coords="1070,253,1248,280"/>
+<area shape="rect" id="node21" href="$thread__local__free__list__heap_8hpp.html" title="immer/heap/thread_local\l_free_list_heap.hpp" alt="" coords="617,246,780,287"/>
+<area shape="rect" id="node12" href="$identity__heap_8hpp.html" title="immer/heap/identity\l_heap.hpp" alt="" coords="304,337,439,378"/>
+<area shape="rect" id="node16" href="$with__data_8hpp.html" title="immer/heap/with_data.hpp" alt="" coords="641,517,815,544"/>
+<area shape="rect" id="node18" href="$free__list__node_8hpp.html" title="immer/heap/free_list\l_node.hpp" alt="" coords="718,427,858,469"/>
+<area shape="rect" id="node22" href="$unsafe__free__list__heap_8hpp.html" title="immer/heap/unsafe_free\l_list_heap.hpp" alt="" coords="707,337,870,378"/>
+<area shape="rect" id="node30" href="$tags_8hpp.html" title="immer/heap/tags.hpp" alt="" coords="1272,253,1416,280"/>
+</map>

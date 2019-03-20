@@ -1,0 +1,4 @@
+<map id="CBlockPolicyEstimator" name="CBlockPolicyEstimator">
+<area shape="rect" id="node2" href="$class_tx_confirm_stats.html" title="We will instantiate an instance of this class to track transactions that were included in a block..." alt="" coords="5,5,120,32"/>
+<area shape="rect" id="node3" href="$class_c_fee_rate.html" title="Fee rate in satoshis per kilobyte: CAmount / kB. " alt="" coords="144,5,225,32"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="src/evo/specialtx.h" name="src/evo/specialtx.h">
+<area shape="rect" id="node2" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="1258,80,1416,107"/>
+<area shape="rect" id="node29" href="$streams_8h.html" title="streams.h" alt="" coords="1538,155,1617,181"/>
+<area shape="rect" id="node33" href="$version_8h.html" title="version.h" alt="" coords="1553,80,1626,107"/>
+<area shape="rect" id="node3" href="$amount_8h.html" title="amount.h" alt="" coords="1299,155,1374,181"/>
+<area shape="rect" id="node4" href="$serialize_8h.html" title="serialize.h" alt="" coords="1372,237,1453,264"/>
+<area shape="rect" id="node23" href="$script_8h.html" title="script/script.h" alt="" coords="496,237,597,264"/>
+<area shape="rect" id="node27" href="$uint256_8h.html" title="uint256.h" alt="" coords="269,237,342,264"/>
+<area shape="rect" id="node5" href="$endian_8h.html" title="compat/endian.h" alt="" coords="236,395,354,421"/>
+<area shape="rect" id="node20" href="$prevector_8h.html" title="prevector.h" alt="" coords="988,320,1074,347"/>
+<area shape="rect" id="node7" href="$byteswap_8h.html" title="compat/byteswap.h" alt="" coords="198,469,333,496"/>
+<area shape="rect" id="node24" href="$common_8h.html" title="crypto/common.h" alt="" coords="108,320,230,347"/>
+<area shape="rect" id="node30" href="$zeroafterfree_8h.html" title="support/allocators\l/zeroafterfree.h" alt="" coords="1186,230,1312,271"/>
+<area shape="rect" id="node31" href="$cleanse_8h.html" title="support/cleanse.h" alt="" coords="1150,320,1276,347"/>
+</map>

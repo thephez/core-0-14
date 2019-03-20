@@ -1,0 +1,5 @@
+<map id="CBase58Data" name="CBase58Data">
+<area shape="rect" id="node2" href="$class_c_bitcoin_address.html" title="base58&#45;encoded Dash addresses. " alt="" coords="5,88,125,115"/>
+<area shape="rect" id="node3" href="$class_c_bitcoin_ext_key_base.html" title="CBitcoinExtKeyBase\l\&lt; K, Size, Type \&gt;" alt="" coords="150,81,295,122"/>
+<area shape="rect" id="node4" href="$class_c_bitcoin_secret.html" title="A base58&#45;encoded secret key. " alt="" coords="319,88,429,115"/>
+</map>

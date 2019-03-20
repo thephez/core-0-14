@@ -1,0 +1,22 @@
+<map id="src/qt/masternodelist.h" name="src/qt/masternodelist.h">
+<area shape="rect" id="node2" href="$platformstyle_8h.html" title="platformstyle.h" alt="" coords="525,80,632,107"/>
+<area shape="rect" id="node6" href="$transaction_8h.html" title="primitives/transaction.h" alt="" coords="989,229,1147,256"/>
+<area shape="rect" id="node31" href="$sync_8h.html" title="sync.h" alt="" coords="620,229,681,256"/>
+<area shape="rect" id="node38" href="$deterministicmns_8h.html" title="evo/deterministicmns.h" alt="" coords="967,80,1124,107"/>
+<area shape="rect" id="node7" href="$amount_8h.html" title="amount.h" alt="" coords="1067,312,1143,339"/>
+<area shape="rect" id="node8" href="$serialize_8h.html" title="serialize.h" alt="" coords="1517,395,1597,421"/>
+<area shape="rect" id="node25" href="$script_8h.html" title="script/script.h" alt="" coords="940,395,1041,421"/>
+<area shape="rect" id="node29" href="$uint256_8h.html" title="uint256.h" alt="" coords="717,395,791,421"/>
+<area shape="rect" id="node9" href="$endian_8h.html" title="compat/endian.h" alt="" coords="1454,544,1572,571"/>
+<area shape="rect" id="node23" href="$prevector_8h.html" title="prevector.h" alt="" coords="1354,469,1440,496"/>
+<area shape="rect" id="node26" href="$common_8h.html" title="crypto/common.h" alt="" coords="1079,469,1201,496"/>
+<area shape="rect" id="node32" href="$threadsafety_8h.html" title="threadsafety.h" alt="" coords="542,312,647,339"/>
+<area shape="rect" id="node39" href="$arith__uint256_8h.html" title="arith_uint256.h" alt="" coords="563,395,669,421"/>
+<area shape="rect" id="node40" href="$bls_8h.html" title="bls/bls.h" alt="" coords="1473,312,1543,339"/>
+<area shape="rect" id="node42" href="$dbwrapper_8h.html" title="dbwrapper.h" alt="" coords="1287,229,1380,256"/>
+<area shape="rect" id="node43" href="$evodb_8h.html" title="evodb.h" alt="" coords="898,155,965,181"/>
+<area shape="rect" id="node44" href="$providertx_8h.html" title="providertx.h" alt="" coords="1371,155,1461,181"/>
+<area shape="rect" id="node45" href="$simplifiedmns_8h.html" title="simplifiedmns.h" alt="" coords="1537,229,1649,256"/>
+<area shape="rect" id="node46" href="$map_8hpp.html" title="immer/map.hpp" alt="" coords="989,155,1100,181"/>
+<area shape="rect" id="node47" href="$map__transient_8hpp.html" title="immer/map_transient.hpp" alt="" coords="1126,155,1295,181"/>
+</map>

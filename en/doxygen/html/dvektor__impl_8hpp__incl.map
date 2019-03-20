@@ -1,0 +1,15 @@
+<map id="src/immer/experimental/detail/dvektor_impl.hpp" name="src/immer/experimental/detail/dvektor_impl.hpp">
+<area shape="rect" id="node2" href="$heap__policy_8hpp.html" title="immer/heap/heap_policy.hpp" alt="" coords="308,104,496,131"/>
+<area shape="rect" id="node17" href="$enable__intrusive__ptr_8hpp.html" title="immer/refcount/enable\l_intrusive_ptr.hpp" alt="" coords="823,97,973,138"/>
+<area shape="rect" id="node19" href="$refcount__policy_8hpp.html" title="immer/refcount/refcount\l_policy.hpp" alt="" coords="998,97,1157,138"/>
+<area shape="rect" id="node3" href="$debug__size__heap_8hpp.html" title="immer/heap/debug_size\l_heap.hpp" alt="" coords="229,187,388,229"/>
+<area shape="rect" id="node4" href="$config_8hpp.html" title="immer/config.hpp" alt="" coords="270,376,393,403"/>
+<area shape="rect" id="node8" href="$free__list__heap_8hpp.html" title="immer/heap/free_list\l_heap.hpp" alt="" coords="607,278,746,319"/>
+<area shape="rect" id="node13" href="$split__heap_8hpp.html" title="immer/heap/split_heap.hpp" alt="" coords="822,285,1001,312"/>
+<area shape="rect" id="node14" href="$thread__local__free__list__heap_8hpp.html" title="immer/heap/thread_local\l_free_list_heap.hpp" alt="" coords="414,187,577,229"/>
+<area shape="rect" id="node5" href="$identity__heap_8hpp.html" title="immer/heap/identity\l_heap.hpp" alt="" coords="158,278,293,319"/>
+<area shape="rect" id="node9" href="$with__data_8hpp.html" title="immer/heap/with_data.hpp" alt="" coords="535,459,709,485"/>
+<area shape="rect" id="node11" href="$free__list__node_8hpp.html" title="immer/heap/free_list\l_node.hpp" alt="" coords="499,369,638,410"/>
+<area shape="rect" id="node15" href="$unsafe__free__list__heap_8hpp.html" title="immer/heap/unsafe_free\l_list_heap.hpp" alt="" coords="369,278,532,319"/>
+<area shape="rect" id="node18" href="$no__refcount__policy_8hpp.html" title="immer/refcount/no_refcount\l_policy.hpp" alt="" coords="822,187,1004,229"/>
+</map>

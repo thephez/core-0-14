@@ -1,0 +1,15 @@
+<map id="BitcoinApplication" name="BitcoinApplication">
+<area shape="rect" id="node3" href="$class_platform_style.html" title="PlatformStyle" alt="" coords="475,187,576,213"/>
+<area shape="rect" id="node11" href="$class_bitcoin_g_u_i.html" title="Bitcoin GUI main class. " alt="" coords="1087,447,1174,473"/>
+<area shape="rect" id="node15" href="$class_r_p_c_console.html" title="Local Bitcoin RPC console. " alt="" coords="796,344,895,371"/>
+<area shape="rect" id="node18" href="$class_wallet_frame.html" title="A container for embedding all wallet&#45;related controls into BitcoinGUI. " alt="" coords="1320,656,1416,683"/>
+<area shape="rect" id="node4" href="$class_client_model.html" title="Model for Dash network client. " alt="" coords="480,560,571,587"/>
+<area shape="rect" id="node6" href="$class_peer_table_model.html" title="Qt model providing information about connected peers, similar to the &quot;getpeerinfo&quot; RPC call..." alt="" coords="787,747,903,773"/>
+<area shape="rect" id="node8" href="$class_ban_table_model.html" title="Qt model providing information about connected peers, similar to the &quot;getpeerinfo&quot; RPC call..." alt="" coords="789,672,901,699"/>
+<area shape="rect" id="node21" href="$class_notificator.html" title="Cross&#45;platform desktop notification client. " alt="" coords="657,475,740,501"/>
+<area shape="rect" id="node9" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Bitcoin client. " alt="" coords="195,243,298,269"/>
+<area shape="rect" id="node22" href="$class_unit_display_status_bar_control.html" title="UnitDisplayStatusBarControl" alt="" coords="430,243,621,269"/>
+<area shape="rect" id="node13" href="$class_help_message_dialog.html" title="&quot;Help message&quot; dialog box " alt="" coords="776,875,915,901"/>
+<area shape="rect" id="node20" href="$class_modal_overlay.html" title="Modal overlay to display information about the chain&#45;sync state. " alt="" coords="794,395,897,421"/>
+<area shape="rect" id="node17" href="$class_r_p_c_timer_interface.html" title="RPC timer &quot;driver&quot;. " alt="" coords="458,317,593,344"/>
+</map>

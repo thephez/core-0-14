@@ -1,0 +1,14 @@
+<map id="BitcoinGUI" name="BitcoinGUI">
+<area shape="rect" id="node16" href="$class_wallet_frame.html" title="A container for embedding all wallet&#45;related controls into BitcoinGUI. " alt="" coords="1296,336,1392,363"/>
+<area shape="rect" id="node3" href="$class_help_message_dialog.html" title="&quot;Help message&quot; dialog box " alt="" coords="776,13,915,40"/>
+<area shape="rect" id="node5" href="$class_platform_style.html" title="PlatformStyle" alt="" coords="475,151,576,177"/>
+<area shape="rect" id="node13" href="$class_r_p_c_console.html" title="Local Bitcoin RPC console. " alt="" coords="796,341,895,368"/>
+<area shape="rect" id="node6" href="$class_client_model.html" title="Model for Dash network client. " alt="" coords="480,579,571,605"/>
+<area shape="rect" id="node8" href="$class_peer_table_model.html" title="Qt model providing information about connected peers, similar to the &quot;getpeerinfo&quot; RPC call..." alt="" coords="787,488,903,515"/>
+<area shape="rect" id="node10" href="$class_ban_table_model.html" title="Qt model providing information about connected peers, similar to the &quot;getpeerinfo&quot; RPC call..." alt="" coords="789,579,901,605"/>
+<area shape="rect" id="node19" href="$class_notificator.html" title="Cross&#45;platform desktop notification client. " alt="" coords="657,744,740,771"/>
+<area shape="rect" id="node11" href="$class_options_model.html" title="Interface from Qt to configuration data structure for Bitcoin client. " alt="" coords="195,495,298,521"/>
+<area shape="rect" id="node20" href="$class_unit_display_status_bar_control.html" title="UnitDisplayStatusBarControl" alt="" coords="430,229,621,256"/>
+<area shape="rect" id="node18" href="$class_modal_overlay.html" title="Modal overlay to display information about the chain&#45;sync state. " alt="" coords="794,291,897,317"/>
+<area shape="rect" id="node15" href="$class_r_p_c_timer_interface.html" title="RPC timer &quot;driver&quot;. " alt="" coords="458,331,593,357"/>
+</map>
